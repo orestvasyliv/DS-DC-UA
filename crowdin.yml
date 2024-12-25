@@ -1,0 +1,3 @@
+files:
+  - source: /decima-*/localization.json
+    translation: /localization_crowdin_%locale%.json
