@@ -9110,27 +9110,27 @@
     "localized/sentences/ds_lines_cutscene/sq_cs00_s00100/sentences.core": {
       "110c1799-48d4-8f42-8c67-e47aaec4b906": {
         "source": "The \"Rope\", along with the \"Stick\" are two of mankind's oldest tools.",
-        "target": "«Мотузка», разом з «Палицею», є двома найдавнішими інструментами людства.",
+        "target": "\"Мотузка\", разом з \"Палицею\", є двома найдавнішими інструментами людства.",
         "show": "always"
       },
       "315387eb-4e5f-5541-a71f-de86983b8cb4": {
         "source": "A bang which set a planet spinning in that space.",
-        "target": "Вибух, що поставив планету в обертання у цьому просторі.",
+        "target": "Вибух, що змусив планету в обртатися у цьому просторі.",
         "show": "always"
       },
       "dba87dd8-2aa8-7f48-a711-e1f3b6b19646": {
         "source": "From Kobo Abe's \"Nawa\"",
-        "target": "З твору Кобо Абе «Нава»",
+        "target": "З твору Кобо Абе \"Нава\"",
         "show": "always"
       },
       "ea97b08c-e515-b94a-8d1b-3fac62b82053": {
         "source": "A bang which gave birth to time and space.",
-        "target": "Вибух, що народив час і простір.",
+        "target": "Вибух, що породив час і простір.",
         "show": "always"
       },
       "3e87837d-bb1c-d746-9048-87ff70e79d1b": {
         "source": "Once, there was an explosion...",
-        "target": "Існував колись вибух...",
+        "target": "Одного разу стався вибух...",
         "show": "always"
       },
       "2a49ca93-5b39-8b4c-9ab0-8713c831f2af": {
@@ -9140,7 +9140,7 @@
       },
       "1c8c63c1-7a66-9842-8e10-b43d97565397": {
         "source": "Once, there was an explosion...",
-        "target": "Існував колись вибух...",
+        "target": "Одного разу стався вибух...",
         "show": "always"
       },
       "3c9beabf-ff81-e944-9e24-9433dddd5b47": {
@@ -9150,12 +9150,12 @@
       },
       "598ac627-24de-1347-8dce-e4aecb36fa66": {
         "source": "The rope used to bring the good toward us, the stick to keep the bad away.",
-        "target": "Мотузка використовувалась для звертання добра до нас, палиця - щоб тримати погане подалі.",
+        "target": "Мотузка використовувалась для навертання добра до нас, палиця - щоб тримати погане подалі.",
         "show": "always"
       },
       "1bec512d-2945-f641-9e4f-4db69cf1e3d2": {
         "source": "Once there was an explosion...",
-        "target": "Існував колись вибух...",
+        "target": "Одного разу стався вибух...",
         "show": "always"
       },
       "0a6d07ae-10e2-6b46-ba31-82a2ee3bf7a6": {
@@ -9165,7 +9165,7 @@
       },
       "061f4149-731c-6744-b478-d73104170752": {
         "source": "Wherever there were people, there were the rope and the stick.",
-        "target": "Де були люди, там була мотузка й палиця.",
+        "target": "Де були люди, там були мотузка й палиця.",
         "show": "always"
       }
     },
@@ -9187,46 +9187,46 @@
       },
       "8ed4f924-ca26-a44f-9b10-53232eadf3a7": {
         "source": "Ah... Great...",
-        "target": "Ах... Великолепно...",
+        "target": "Ах... Чудово...",
         "show": "always"
       }
     },
     "localized/sentences/ds_lines_cutscene/sq_cs00_s00200/sentences.core": {
       "d1e686b7-110e-9747-bfa7-8c002736c20e": {
         "source": "PROLOGUE \"PORTER\" ",
-        "target": "ПРОЛОГ \"ПОРТНИК\"",
+        "target": "ПРОЛОГ \"КУРʼЄР\" ",
         "show": "always"
       }
     },
     "localized/sentences/ds_lines_cutscene/sq_cs00_s00220/sentences.core": {
       "08a6de57-99bb-a44f-a3a3-1bd5116b92e9": {
         "source": "Yeah, I've heard of ya.\n",
-        "target": "Так, я про тебе чув.",
+        "target": "Так, я про тебе чув.\n",
         "show": "always"
       },
       "6cd95cd3-023a-3e48-9ea9-0452d796c874": {
         "source": "I make deliveries. That's all.\n",
-        "target": "Я роблю доставки. Це все, що я роблю.",
+        "target": "Я роблю доставки. Це все.\n",
         "show": "always"
       },
       "45295583-03bd-c743-94ea-468adba53840": {
         "source": "Trying to stay dry, same as you.\n",
-        "target": "Намагаюся залишитися сухим, так само, як і ти.",
+        "target": "Намагаюся залишитися сухою, так само, як і ти.\n",
         "show": "always"
       },
       "2a9b4924-c73b-c841-91a3-8f8eea4b2b57": {
         "source": "This is Bridges Central Dispatch.\n",
-        "target": "Це Центральна Диспетчерська Бриджів.",
+        "target": "Це Центральна Диспетчерська Бриджес.\n",
         "show": "always"
       },
       "c7ce18c6-e46d-2d4b-ae9a-2cfd7a1a4ece": {
         "source": "Tears. A chiral allergy.\n",
-        "target": "Сльози. Хіральна алергія.",
+        "target": "Сльози. Хіральна алергія.\n",
         "show": "always"
       },
       "e91dbd2e-6981-7344-95f2-9a833063332f": {
         "source": "Must be tough out here on your own...\n",
-        "target": "Мусить бути важко тут виживати самотньо...",
+        "target": "Мабуть, важко бути тут самому...\n",
         "show": "always"
       },
       "d5bb8e76-2b37-c84f-a9da-26c4fd06beb9": {
@@ -9236,17 +9236,17 @@
       },
       "6ac713b9-d090-a846-8bac-b1272d7746d8": {
         "source": "And on top of that...",
-        "target": "І ще й з тим...",
+        "target": "До того ж...",
         "show": "always"
       },
       "6c9d8cd1-4923-8b43-9f6f-d1b46e45635f": {
         "source": "Didn't mean to grab you so hard.",
-        "target": "Вибач, що так сильно тебе тримав.",
+        "target": "Не хотіла тебе так сильно хапати.",
         "show": "always"
       },
       "0dd8836d-a6aa-4746-a3ad-af89f6de22e3": {
         "source": "My name is Fragile.\n",
-        "target": "Мене звуть Фрейджайл.",
+        "target": "Мене звуть Фреджайл.\n",
         "show": "always"
       },
       "c030b36b-000d-5d4c-9791-ebde3996a735": {
@@ -9261,27 +9261,27 @@
       },
       "36691a38-e44b-794b-944f-1dcab5691b1b": {
         "source": "Watch yourself. Those things never stay gone for long.\n",
-        "target": "Будь обережний. Ці речі надовго не залишаються відсутніми.",
+        "target": "Будь обережний. Ці речі ніколи надовго не зникають.\n",
         "show": "always"
       },
       "ee15c993-eb8a-4543-b7d9-e6c4ee541a49": {
         "source": "I've got the extinction factor, but I think you got me beat.\n",
-        "target": "У мене є фактор вимирання, але, здається, ти мене переміг.",
+        "target": "У мене є фактор вимирання, але, здається, ти мене перемогла.",
         "show": "always"
       },
       "c55fd691-74b0-7243-b8e7-c80ec83ab2ff": {
         "source": "Freelance contractor Sam Porter Bridges—receiver is standing by for drop.\n",
-        "target": "Фрілансер Семен кур'єр Бриджі - одержувач очікує замовлення.",
+        "target": "Підряднику-фрілансеру Семену Аскольдовичу Мостенку - одержувач очікує на замовлення.\n",
         "show": "always"
       },
       "475af867-32e7-0548-99d5-3917b4e1af17": {
         "source": "Not much left of me, either. Got soaked from neck to toe.\n",
-        "target": "Від мене теж майже нічого не лишилося. Промок від голови до ніг.",
+        "target": "Від мене теж майже нічого не лишилося. Промокла від шиї до ніг.\n",
         "show": "always"
       },
       "a0c330b0-d2ba-5440-b98a-be840fc3be40": {
         "source": "So. You have DOOMS. Like me.\n",
-        "target": "Так. У тебе є ДУМС. Як у мене.",
+        "target": "Тож. У тебе є DOOMS. Як і в мене.\n",
         "show": "always"
       },
       "bfe6e983-34c7-0e43-8677-40d04814d38c": {
@@ -9291,7 +9291,7 @@
       },
       "b4f61f09-77ba-0742-978c-418ca6092da4": {
         "source": "What the hell?",
-        "target": "Що за черт?",
+        "target": "Якого біса?",
         "show": "always"
       },
       "851397ec-f1ea-b141-91fb-48beb36c08d8": {
@@ -9301,7 +9301,7 @@
       },
       "f1976d08-78e4-6243-af5c-d44b12705cbf": {
         "source": "Timefall's let up.\n",
-        "target": "Припинився дощ кістянка.",
+        "target": "Часопад припинився.\n",
         "show": "always"
       },
       "69961a39-e55b-7440-b7b9-ce62dcb4bb90": {
@@ -9326,7 +9326,7 @@
       },
       "6a3469e3-2b68-b846-86d6-1896c51b58cf": {
         "source": "A cryptobiote a day keeps the timefall away.\n",
-        "target": "Криптобіот на день тримає від кістянки подалі.",
+        "target": "Криптобіот на день тримає часопад подалі.\n",
         "show": "always"
       },
       "a1bbe5db-90d8-cf4c-8994-4589db6c86fb": {
@@ -9356,12 +9356,12 @@
       },
       "3c7a5d0c-2919-e241-963c-15db341bce89": {
         "source": "Not much left of us now, save for a few honest folks.",
-        "target": "Тепер залишилося майже нічого, окрім кількох порядних людей.",
+        "target": "Тепер не залишилося майже нікого, окрім кількох порядних людей.",
         "show": "always"
       },
       "c37e1da5-0185-dc46-a501-60b66858828a": {
         "source": "You want it?\n",
-        "target": "Тобі це потрібно?\n",
+        "target": "Хочеш?\n",
         "show": "always"
       },
       "914889d0-af70-8145-add4-af151c8a5519": {
@@ -9371,7 +9371,7 @@
       },
       "1bb82d44-9dbc-cb40-a08a-9a64fc32ead9": {
         "source": "The timefall fast-forwards whatever it touches.\nBut it can't wash everything away.",
-        "target": "Часопливний дощ прискорює все, що доторкається.\nАле він не може змити все.",
+        "target": "Часопад прискорює будь-що, до чого доторкається.\nАле він не може змити все.",
         "show": "always"
       },
       "e5f155d1-8d0f-2543-b2a8-8e5537cdb69f": {
@@ -9381,7 +9381,7 @@
       },
       "153fc222-7aa2-7d46-8f5b-4af75e28ef1d": {
         "source": "I can't help you with that.",
-        "target": "Я не можу тобі з цим допомогти.",
+        "target": "З цим я тобі точно не допоможу.",
         "show": "always"
       },
       "a1b59e06-1e11-f345-b013-1f8e9233c941": {
@@ -9563,7 +9563,7 @@
       },
       "04c77a1b-d7c6-d946-a09b-e14abb4c8813": {
         "source": "Special commission for: Sam Porter Bridges. Priority One.",
-        "target": "Особлива місія для: Семена Аскольдовича Мостенка. Пріоритет один.",
+        "target": "Особлива місія для: Семена Аскольдовича Мостенка. Пріоритет Один.",
         "show": "always"
       }
     },
@@ -9575,7 +9575,7 @@
       },
       "030eaa1c-6315-744a-8eaa-ed22dfe01269": {
         "source": "Son of a bitch. Rainbow!",
-        "target": "Синьо на хресті. Радуга!",
+        "target": "Сучий син. Веселка!",
         "show": "always"
       },
       "7f0d8298-3353-bd4a-b212-c31c8b32fe60": {
@@ -10729,7 +10729,7 @@
       },
       "90390696-17d2-5644-baaf-b3595129f47d": {
         "source": "Shit.",
-        "target": "Лайно.",
+        "target": "От лайно.",
         "show": "always"
       },
       "03cbd3e9-227a-b848-9e9b-117e75262436": {
@@ -11272,7 +11272,7 @@
       },
       "cc50cff7-5aea-2847-bfd7-db1ecfba521c": {
         "source": "You think the suicide that took out Central Knot was one of theirs?",
-        "target": "Ти думаєш, що самогубство, яке знищило Центральне Вузло, було їхнє?",
+        "target": "Ти думаєш, що самогубство, яке знищило Центральний Вузол, було їхнє?",
         "show": "always"
       },
       "bb3f655b-c0ce-4e47-9f0e-b628c45f475f": {
@@ -15227,7 +15227,7 @@
       },
       "a623e870-25f1-194a-a5a8-3e26a0277794": {
         "source": "Surprise! Fragile warped me here.",
-        "target": "Сюрприз! Фрейджайл відклепала мене сюди.",
+        "target": "Сюрприз! Фреджайл відклепала мене сюди.",
         "show": "always"
       },
       "0f1e2ba8-d6ea-1e46-925c-6ff53bdec815": {
@@ -23353,7 +23353,7 @@
       },
       "5decbe7e-809f-234f-841b-338dfb8710a9": {
         "source": "Wanna come work for me?",
-        "target": "Хочеш прийти працювати до мене?",
+        "target": "Хочеш прийти працювати на мене?",
         "show": "always"
       },
       "d497faca-140e-f048-a2df-f4ec3d29d392": {
@@ -25602,7 +25602,7 @@
       },
       "849c7c7e-40b3-0f40-9195-4c963b942200": {
         "source": "Could wait out the rain over there.",
-        "target": "Можна зачекати на дощ там, побачимо.",
+        "target": "Можна перечекати дощ там.",
         "show": "always"
       },
       "9a0fc907-2bf6-0845-b4fd-5cee0e2df542": {
@@ -25754,7 +25754,7 @@
       },
       "4f2a1bff-e579-5343-a3a6-1435c5e192bc": {
         "source": "Central wasn't just home to Bridges HQ.",
-        "target": "Центральне місто не просто було домашнім місцем штаб-квартири Бріджесу.",
+        "target": "Центральне не просто було домом для штаб-квартири Бріджесу.",
         "show": "always"
       },
       "5308ea2c-c2ce-444e-a84f-72f5d5cc737b": {
@@ -26735,7 +26735,7 @@
       },
       "1adbf99a-479e-824b-8055-613cab50ba3c": {
         "source": "Everything they sent back was lost when Central Knot City was destroyed.",
-        "target": "Усе, що вони відправили назад, було втрачено, коли було знищено Центральне Місто Вузлів.",
+        "target": "Усе, що вони відправили назад, було втрачено, коли було знищено Центральне Вузлове Місто.",
         "show": "always"
       },
       "7bbb5acc-485c-5a49-b461-7e8fdc435105": {
@@ -35371,7 +35371,7 @@
       },
       "973bcced-e6eb-fc43-a1e6-d5ce05f75003": {
         "source": "Shit, BT.",
-        "target": "Лайно, BT.",
+        "target": "От лайно, BT.",
         "show": "always"
       },
       "b1a2a831-a1d4-ae4d-a166-aa50cb471961": {
@@ -39107,12 +39107,12 @@
       },
       "0c5f02d6-0708-904e-8744-e43301cbcb3a": {
         "source": "Shit...",
-        "target": "Лайно...",
+        "target": "От лайно...",
         "show": "always"
       },
       "2d4ed436-ebb5-164e-916d-05a002525863": {
         "source": "Dammit!",
-        "target": "Черт!",
+        "target": "Дідько!",
         "show": "always"
       },
       "1ccb51e7-944b-6049-9e50-931d626521b3": {
@@ -39127,12 +39127,12 @@
       },
       "3d2e3fa5-47e6-5349-8620-58ded1b16b17": {
         "source": "Game over.",
-        "target": "Гра закінчена.",
+        "target": "Гру закінчено.",
         "show": "always"
       },
       "d440c2dd-a3f7-9c44-972b-5139a103cefc": {
         "source": "Game Over!",
-        "target": "Гра закінчена!",
+        "target": "Гру закінчено!",
         "show": "always"
       },
       "e65f728b-451e-e84c-beb5-3709bb984e01": {
@@ -39282,7 +39282,7 @@
       },
       "9fd848f3-dd39-e04d-87b0-d10e990d400f": {
         "source": "Shit!",
-        "target": "Лайно!",
+        "target": "От лайно!",
         "show": "always"
       },
       "c4a68d31-61be-474b-9c2f-043312d0f594": {
@@ -39322,7 +39322,7 @@
       },
       "625ccb6b-42fa-b446-8ab0-67b5141e01b1": {
         "source": "Dammit!",
-        "target": "Лайно!",
+        "target": "Дідько!",
         "show": "always"
       },
       "7411aa74-5ffb-0145-b3bf-041cbf98a9e6": {
@@ -39372,7 +39372,7 @@
       },
       "b23af5f4-a83d-994f-aea3-8be68e4ccbe9": {
         "source": "Dammit!",
-        "target": "Лайно!",
+        "target": "Дідько!",
         "show": "always"
       },
       "e5d628fd-ba5c-2445-9233-fe3d46a34012": {
@@ -40948,7 +40948,7 @@
       },
       "e21105f1-a669-a044-9c9c-43e8fec59eea": {
         "source": "Son of a bitch, what are you doin'?",
-        "target": "Лайно, що ти робиш?",
+        "target": "Сучий сину, що ти робиш?",
         "show": "always"
       },
       "ff3681fe-b4ee-264e-86d9-bb2221bca9fb": {
@@ -40963,7 +40963,7 @@
       },
       "7bc51f31-e7e6-8b43-a902-d455e1cf3835": {
         "source": "Fuck me...",
-        "target": "От ё-моє...",
+        "target": "Їбать...",
         "show": "always"
       },
       "7e37f347-bc32-204b-a13e-e70c475806b4": {
@@ -41868,12 +41868,12 @@
       },
       "e9afd2d4-b196-8149-931c-29441e30eae0": {
         "source": "Shit.",
-        "target": "Лайно.",
+        "target": "От лайно.",
         "show": "always"
       },
       "f426f59d-331c-aa4c-9b3c-8460b45a593a": {
         "source": "Hideo Kojima!",
-        "target": "Хідео Кодзіма!",
+        "target": "Хідео Коджіма!",
         "show": "always"
       },
       "1a6b3739-e768-2549-8304-b3172b19168f": {
@@ -42153,7 +42153,7 @@
       },
       "c345b5ab-6e01-934c-bf62-26d70a385c75": {
         "source": "Shit, shit, shit, shit!",
-        "target": "Лайно, лайно, лайно, лайно!",
+        "target": "От лайно, лайно, лайно, лайно!",
         "show": "always"
       },
       "e3c0363b-948d-b44b-93fb-c89502849377": {
@@ -42523,7 +42523,7 @@
       },
       "0d7c7eae-21a3-0c42-93d1-5147fe07301a": {
         "source": "Shit!",
-        "target": "Лайно!",
+        "target": "От лайно!",
         "show": "always"
       },
       "dafa283f-5098-254c-a3ed-3d69260a111c": {
@@ -42723,7 +42723,7 @@
       },
       "2c35ce14-9c83-b541-9ecd-508af5790701": {
         "source": "Goddammit...",
-        "target": "Лайно...",
+        "target": "Трясця твоїй матері....",
         "show": "always"
       },
       "b4a9c644-8510-8c4e-909b-d2e4c0cb85de": {
@@ -43153,7 +43153,7 @@
       },
       "bde0d4dd-9860-1f45-af85-43f3b1f24b60": {
         "source": "Shit.",
-        "target": "Лайно.",
+        "target": "От лайно.",
         "show": "always"
       },
       "716256d8-2bd6-ce45-8e9b-9df29b21a813": {
@@ -43398,7 +43398,7 @@
       },
       "1f934bb8-7b35-2349-8a83-2cc105e2a7cc": {
         "source": "Shit!",
-        "target": "Лайно!",
+        "target": "От лайно!",
         "show": "always"
       },
       "68db9153-ba85-7a41-bf3d-6359e1ea9b22": {
@@ -43438,7 +43438,7 @@
       },
       "f69f8ab4-e30d-de4d-a2c2-677a75e9f865": {
         "source": "Shit!",
-        "target": "Лайно!",
+        "target": "От лайно!",
         "show": "always"
       },
       "f7895f66-27a7-734b-8317-3a5efd9a9789": {
@@ -44013,12 +44013,12 @@
       },
       "5da15235-a3a4-764d-9abb-7364ef88aea4": {
         "source": "Shit! They're on to me.",
-        "target": "Лайно! Вони здогадалися.",
+        "target": "От лайно! Вони здогадалися.",
         "show": "always"
       },
       "5e1b6fa3-f62c-1946-b8c7-6b735b27c946": {
         "source": "Shit!",
-        "target": "Лайно!",
+        "target": "От лайно!",
         "show": "always"
       },
       "87cd2325-2cab-fa4d-af95-8ce91a667dce": {
@@ -44733,7 +44733,7 @@
       },
       "848411cc-187a-834e-8e13-4e00f1de3945": {
         "source": "Crap!",
-        "target": "Лайно!",
+        "target": "Чорт!",
         "show": "always"
       },
       "a8ac663f-5713-4740-b960-4fff5ac98529": {
@@ -48398,7 +48398,7 @@
     "localized/sentences/ds_lines_terminal/lines_city_0w_101/sentences.core": {
       "46b129b9-fe3f-4a44-8658-b1c4bace7f29": {
         "source": "What took you so long? It's not like The Legend to come in late.",
-        "target": "Чому тебе довелося так довго? Легендарному Семену не властиво запізнюватися.",
+        "target": "Що зайняло в тебе стільки часу? Легендарному Семену не властиво запізнюватися.",
         "show": "always"
       },
       "a791a8f7-d8b8-b045-9f93-8db82da6c194": {
@@ -48408,7 +48408,7 @@
       },
       "5f0fce7c-9041-6b47-a23e-01e8ce9f7223": {
         "source": "Had to wait out the storm. Lost my bike.",
-        "target": "Довелося зачекати на бурю. Втратив свій мотоцикл.",
+        "target": "Довелося перечекати шторм. Втратив свій мотоцикл.",
         "show": "always"
       },
       "56b40032-4b14-5740-b6a5-16701b3ee0f7": {
@@ -48423,12 +48423,12 @@
       },
       "46710045-91de-0f48-8ca9-a2dfbc084893": {
         "source": "Had to wait out the storm. Lost my bike and some cargo.",
-        "target": "Довелося зачекати на бурю. Втратив свій мотоцикл і частину вантажу.",
+        "target": "Довелося перечекати шторм. Втратив свій мотоцикл і частину вантажу.",
         "show": "always"
       },
       "0ec280d8-7e13-b147-9c0d-d64e7ca99aa6": {
         "source": "Sounds like you've been through the wringer.",
-        "target": "Слухається, начебто ти пройшов через важкі випробування.",
+        "target": "Схоже, ти пройшов через важкі випробування.",
         "show": "always"
       },
       "bf1f4c16-e42d-d84a-ba54-fcfe53dcd451": {
@@ -48443,12 +48443,12 @@
       },
       "4261d846-4ce5-af45-b942-fa9fe85b8b87": {
         "source": "Well, you did keep us waiting, but everything else seems to be in perfect order, so—",
-        "target": "Ну, ти дійсно тримав нас у очікуванні, але все інше здається в порядку, тому —",
+        "target": "Ну, ти таки змусив нас чекати, але все інше, здається, в ідеальному порядку, тому—",
         "show": "always"
       },
       "f8d9d694-c23c-ef48-83c8-a77d52ee550b": {
         "source": "Sounds like you've been through the wringer.",
-        "target": "Слухається, начебто ти пройшов через важкі випробування.",
+        "target": "Схоже, ти пройшов через важкі випробування.",
         "show": "always"
       },
       "9ce5e34c-ecac-4d42-bfe7-1ddba7dbd581": {
@@ -52508,7 +52508,7 @@
       },
       "0c83f5d3-4783-1442-8d90-10a52f126deb": {
         "source": "Shit.",
-        "target": "Лайно.",
+        "target": "От лайно.",
         "show": "always"
       },
       "ef198752-b5bf-3d43-81bb-df2eeee587cb": {
@@ -60435,7 +60435,7 @@
       },
       "5fb93d12-339a-5348-ae9f-4db1d86eead1": {
         "source": "Ah hell...",
-        "target": "Ой лайно...",
+        "target": "А, чорт забирай...",
         "show": "always"
       },
       "6e87d3e9-6f16-e948-bc35-dc041a164f49": {
@@ -61828,7 +61828,7 @@
       },
       "3a41dc29-f4dd-e54a-a7bb-938d80d9b9a6": {
         "source": "Eat Cryptobiote",
-        "target": "З'їсти криптобіот",
+        "target": "З'їсти Криптобіота",
         "show": "always"
       },
       "8df6382a-c4e1-4345-9429-f807c2458873": {
@@ -61838,7 +61838,7 @@
       },
       "4c53852a-226d-e242-aaeb-2741c58437f7": {
         "source": "Offload Cargo from Back",
-        "target": "Розвантажити вантаж із спини",
+        "target": "Розвантажити вантаж зі спини",
         "show": "always"
       },
       "5ffe572b-81f7-5840-ac7d-be879ec9bce0": {
@@ -61963,7 +61963,7 @@
       },
       "f57d643a-3f7e-e842-a8e4-8d96ea3073fd": {
         "source": "Grab with Right Hand",
-        "target": "Захопити Правою Рукою",
+        "target": "Взяти в праву руку",
         "show": "always"
       },
       "73b5e03b-cebc-0242-85b2-6c0981d128a5": {
@@ -62018,12 +62018,12 @@
       },
       "c5d9894a-7234-f542-aa90-eaec2307e59a": {
         "source": "Shift Weight Left",
-        "target": "Зсунути Вагу вліво",
+        "target": "Зсунути вагу ліворуч",
         "show": "always"
       },
       "91261c4b-ed70-c64a-95f8-244db9d7c8e0": {
         "source": "Return",
-        "target": "Повернутися",
+        "target": "Повернути",
         "show": "always"
       },
       "f7113a4b-9994-274a-a22b-680b14d3f2e6": {
@@ -62333,7 +62333,7 @@
       },
       "87043686-fb73-054f-b401-9b85e37f61b8": {
         "source": "Grab with Left Hand",
-        "target": "Взяти лівою рукою",
+        "target": "Взяти в ліву руку",
         "show": "always"
       },
       "f9663686-254c-cc4f-bf0e-0dca789938b9": {
@@ -62463,7 +62463,7 @@
       },
       "c8ba039c-cf05-6041-8b2f-ad7735a385ac": {
         "source": "Carry on Back",
-        "target": "Несіть на спині",
+        "target": "Нести на спині",
         "show": "always"
       },
       "d73a079c-467d-ba4c-9a61-378bb67e95e3": {
@@ -64422,7 +64422,7 @@
       },
       "413802ba-9ce6-654d-ba6b-a7e2006250c6": {
         "source": "Patch 11: Central Knot City",
-        "target": "Патч 11: Центральне Вузло Місто",
+        "target": "Патч 11: Центральне Вузлове Місто",
         "show": "always"
       },
       "2a45c8bb-d0cd-eb40-9bf0-3afe7e9c96c6": {
@@ -64939,7 +64939,7 @@
       },
       "6e1dbc01-a598-7148-900c-b53f513ba29f": {
         "source": "Smart Drugs",
-        "target": "Інтелектуальні наркотики",
+        "target": "Розумні ліки",
         "show": "always"
       },
       "c053db01-5dcb-4946-8544-a288df2de8f4": {
@@ -65884,7 +65884,7 @@
       },
       "46f38143-e54c-034a-9fc5-61118f5e35d2": {
         "source": "Ration Packs",
-        "target": "Пакети Раціонів",
+        "target": "Пайки",
         "show": "always"
       },
       "7f6cdc43-3a94-654e-bfeb-230d343e1ec2": {
@@ -70442,42 +70442,42 @@
     "localized/sentences/ds_ui/ds_bgm/simpletext.core": {
       "cd041509-dd1b-b544-a58f-2682c009abb8": {
         "source": "Once In A Long, Long While...",
-        "target": "Хоча й Довго, Дуже Довго...",
+        "target": "Once In A Long, Long While...",
         "show": "always"
       },
       "ab0ce20c-7b57-1941-a441-7f28c23b6fa3": {
         "source": "SILENT POETS",
-        "target": "ТИХІ ПОЕТИ",
+        "target": "SILENT POETS",
         "show": "always"
       },
       "9ff1d115-1c54-cd45-ba15-f534bfde37b3": {
         "source": "Courtesy of Columbia Records, a division of Sony Music Entertainment",
-        "target": "За люб'язною допомогою Columbia Records, підрозділ Sony Music Entertainment",
+        "target": "Надано завдяки Columbia Records, підрозділ Sony Music Entertainment",
         "show": "always"
       },
       "90af6816-2fd8-6642-b94a-7d2921cf4746": {
         "source": "\"Bones\"",
-        "target": "\"Кістки\"",
+        "target": "\"Bones\"",
         "show": "always"
       },
       "ccce7618-cb92-be4f-8517-ccdb6ffe26e7": {
         "source": "Written by Ludvig Forssell\nVocals by Jenny Plant",
-        "target": "Музика: Людвіг Форссель\nВокал: Дженні Плант",
+        "target": "Музика: Ludvig Forssell\nВокал: Jenny Plant",
         "show": "always"
       },
       "0eff2a1d-d30d-8643-a87c-f28216a777d6": {
         "source": "\"I'll Keep Coming\"",
-        "target": "\"Я й Далі Йду\"",
+        "target": "\"I'll Keep Coming\"",
         "show": "always"
       },
       "ed82322a-bf58-d343-9d0e-584e1e7d07db": {
         "source": "\"Please Don't Stop (Chapter 2)\"",
-        "target": "\"Будь ласка, Не Зупиняйтесь (Розділ 2)\"",
+        "target": "\"Please Don't Stop (Chapter 2)\"",
         "show": "always"
       },
       "24974533-03da-8e46-8b31-768d2c047fdc": {
         "source": "\"Meanwhile... In Genova\"",
-        "target": "\"Тим часом... В Дженові\"",
+        "target": "\"Meanwhile... In Genova\"",
         "show": "always"
       },
       "899f2734-a016-7d47-932b-6660b4d67255": {
@@ -70487,37 +70487,37 @@
       },
       "b6815735-f7df-914c-b333-de5c5082e039": {
         "source": "Courtesy of revolve/Columbia Records",
-        "target": "За люб'язною допомогою revolve/Columbia Records",
+        "target": "Надано завдяки revolve/Columbia Records",
         "show": "always"
       },
       "b6c53436-2cf5-9542-9fcd-e777f692372e": {
         "source": "\"Almost Nothing feat. Okay Kaya\"",
-        "target": "\"Майже Нічого з участю Окея Кайя\"",
+        "target": "\"Almost Nothing feat. Okay Kaya\"",
         "show": "always"
       },
       "b6b39a39-e96f-b54c-9fb0-d8cfdd51db43": {
         "source": "Courtesy of Mad Decent Records/Right Hand/RCA\nBy Arrangement with Sony Music Entertainment",
-        "target": "За угодою з Mad Decent Records/Right Hand/RCA\nЗа угодою з Sony Music Entertainment",
+        "target": "Надано завдяки Mad Decent Records/Right Hand/RCA\nЗа угодою з Sony Music Entertainment",
         "show": "always"
       },
       "122f6c3c-731c-c54d-9aaf-4d7c529f820c": {
         "source": "\"Because We Have To\"",
-        "target": "\"Тому що нам Треба\"",
+        "target": "\"Because We Have To\"",
         "show": "always"
       },
       "e2e96f3c-4f86-5f45-b4a9-623549afd4eb": {
         "source": "\"Waiting (10 Years)\"",
-        "target": "\"Чекаючи (10 Років)\"",
+        "target": "\"Waiting (10 Years)\"",
         "show": "always"
       },
       "bf9aef3f-3005-4e4f-8cf3-15b91a461f8a": {
         "source": "\"Once In A Long, Long While...\"",
-        "target": "\"Хоча й Довго, Дуже Довго...\"",
+        "target": "\"Once In A Long, Long While...\"",
         "show": "always"
       },
       "f9552948-025b-864b-8ac3-294e58a92944": {
         "source": "Ludvig Forssell feat. Jenny Plant",
-        "target": "Людвіг Форссель з участю Дженні Плант",
+        "target": "Ludvig Forssell feat. Jenny Plant",
         "show": "always"
       },
       "e14ed34f-9784-0e42-b11e-2ed7a2faf828": {
@@ -70527,27 +70527,27 @@
       },
       "d21bf74f-e5d8-3d4d-80b1-f73b6ee3ce74": {
         "source": "\"Patience\"",
-        "target": "\"Терпіння\"",
+        "target": "\"Patience\"",
         "show": "always"
       },
       "4c19f250-b525-b440-b769-39a6c4227a83": {
         "source": "Courtesy of Low Roar",
-        "target": "За люб'язною допомогою Low Roar",
+        "target": "Надано завдяки Low Roar",
         "show": "always"
       },
       "6f421f51-9995-374c-9826-039114d3842a": {
         "source": "Courtesy of RCA Records",
-        "target": "За люб'язною допомогою RCA Records",
+        "target": "Надано завдяки RCA Records",
         "show": "always"
       },
       "4b177058-e8a6-4245-ad64-658df3ea40a9": {
         "source": "Courtesy of Nevado Music",
-        "target": "За люб'язною допомогою Nevado Music",
+        "target": "Надано завдяки Nevado Music",
         "show": "always"
       },
       "f69ede64-8a48-6243-a72a-941ba8e2918c": {
         "source": "\"Easy Way Out\"",
-        "target": "\"Легкий Вихід\"",
+        "target": "\"Easy Way Out\"",
         "show": "always"
       },
       "66feb865-1f16-7c4f-b3cc-d221543098e5": {
@@ -70562,12 +70562,12 @@
       },
       "7f78386f-0095-0c40-8f30-c3dbe09d75d2": {
         "source": "\"Breathe In\"",
-        "target": "\"Зітхай\"",
+        "target": "\"Breathe In\"",
         "show": "always"
       },
       "05cab16f-c2b5-2549-a4a0-444f58b1854e": {
         "source": "\"Trigger\"",
-        "target": "\"Спускач\"",
+        "target": "\"Trigger\"",
         "show": "always"
       },
       "babd1f71-85d9-fd4e-8b21-e627e314d43d": {
@@ -70587,12 +70587,12 @@
       },
       "d3ff0574-7987-cd4d-b981-5744c87b3472": {
         "source": "\"I'm Leaving\"",
-        "target": "\"Я пішов\"",
+        "target": "\"I'm Leaving\"",
         "show": "always"
       },
       "fe340682-b102-e44e-a8e1-a215ae738250": {
         "source": "\"Not Around\"",
-        "target": "\"Не поруч\"",
+        "target": "\"Not Around\"",
         "show": "always"
       },
       "279c0a85-ab05-5d48-b4ce-1720c1f97b4b": {
@@ -70602,32 +70602,32 @@
       },
       "64a3ca85-e937-604a-ba00-d7c8d814da83": {
         "source": "\"Don't Be So Serious\"",
-        "target": "\"Не будь так серйозним\"",
+        "target": "\"Don't Be So Serious\"",
         "show": "always"
       },
       "0e6d928a-5b26-d14d-866f-5ffa4114ff66": {
         "source": "\"The Machine\"",
-        "target": "\"Машина\"",
+        "target": "\"The Machine\"",
         "show": "always"
       },
       "02b91d8b-682b-1e4e-8958-5845b42c4e6b": {
         "source": "\"Asylums For The Feeling feat. Leila Adu\"",
-        "target": "\"Азил для почуттів (з участю Лейли Аду)\"",
+        "target": "\"Asylums For The Feeling feat. Leila Adu\"",
         "show": "always"
       },
       "82363991-9bec-9a43-befb-3c3525737934": {
         "source": "\"Poznan\"",
-        "target": "\"Познань\"",
+        "target": "\"Poznan\"",
         "show": "always"
       },
       "42889c93-0598-3443-bb12-5816ef76b907": {
         "source": "Courtesy of ANOTHER TRIP",
-        "target": "За люб'язною підтримки ANOTHER TRIP",
+        "target": "Надано завдяки ANOTHER TRIP",
         "show": "always"
       },
       "fb52199c-2e3b-3740-93eb-64df1aafb45f": {
         "source": "\"Please Don't Stop (Chapter 1)\"",
-        "target": "\"Будь ласка, не зупиняйся (розділ 1)\"",
+        "target": "\"Please Don't Stop (Chapter 1)\"",
         "show": "always"
       },
       "d27b8a9d-4e60-2a4f-b9c3-30c2cd3de295": {
@@ -70637,7 +70637,7 @@
       },
       "df6e0ba4-75a6-6440-816c-1ebed4934cba": {
         "source": "\"Anything You Need\"",
-        "target": "\"Все, що тобі потрібно\"",
+        "target": "\"Anything You Need\"",
         "show": "always"
       },
       "9b78a0a5-7bdd-dd4d-b20f-ed48dfdb9c1b": {
@@ -70647,7 +70647,7 @@
       },
       "414bb6a7-0838-e54d-9b2a-72a8ccb97689": {
         "source": "\"Ghost\"",
-        "target": "\"Примара\"",
+        "target": "\"Ghost\"",
         "show": "always"
       },
       "bb8485af-7ca0-af4d-947d-bfa386e65690": {
@@ -70657,22 +70657,22 @@
       },
       "eee979b3-e07e-4140-97e9-0cb261c6550a": {
         "source": "\"Rolling Over\"",
-        "target": "\"Переключайся\"",
+        "target": "\"Rolling Over\"",
         "show": "always"
       },
       "b43c30b6-96b2-a344-a456-5836b5d41d33": {
         "source": "LOW ROAR",
-        "target": "Низький рев",
+        "target": "LOW ROAR",
         "show": "always"
       },
       "a5bbdcb8-c1ab-d84d-b22e-f596c733f3a0": {
         "source": "\"Ludens\"",
-        "target": "\"Люденс\"",
+        "target": "\"Ludens\"",
         "show": "always"
       },
       "f18954bb-4815-ca42-b4c0-17ddfe17d517": {
         "source": "\"St. Eriksplan\"",
-        "target": "\"Санкт-Еріксплан\"",
+        "target": "\"St. Eriksplan\"",
         "show": "always"
       },
       "323cbdcf-db4d-da48-a6a6-e3a515bbb11e": {
@@ -70682,22 +70682,22 @@
       },
       "8f7eefd6-c267-5949-bbf7-6b953fa8d33f": {
         "source": "\"Without You\"",
-        "target": "\"Без тебе\"",
+        "target": "\"Without You\"",
         "show": "always"
       },
       "c2a2cadc-097c-8d4d-b190-abe83013480f": {
         "source": "\"Pop Virus\"",
-        "target": "\"Вірус Попу\"",
+        "target": "\"Pop Virus\"",
         "show": "always"
       },
       "2fd8a7e7-6f80-e946-accf-b93b83e3b031": {
         "source": "\"Gosia\"",
-        "target": "\"Гося\"",
+        "target": "\"Gosia\"",
         "show": "always"
       },
       "93132aeb-c98f-0441-84fc-63a45ba41e10": {
         "source": "\"BB's Theme\"",
-        "target": "\"Тема личинки людини\"",
+        "target": "\"BB's Theme\"",
         "show": "always"
       },
       "5e5758f6-6d33-9c46-b610-c200e0892696": {
@@ -70712,17 +70712,17 @@
       },
       "676337fc-1c22-9141-93cf-610e0cdb106d": {
         "source": "\"Tonight, Tonight, Tonight\"",
-        "target": "\"Сьогодні ввечері, сьогодні ввечері, сьогодні ввечері\"",
+        "target": "\"Tonight, Tonight, Tonight\"",
         "show": "always"
       },
       "734023fe-5f97-9e42-9f62-eac84db51846": {
         "source": "\"Yellow Box\"",
-        "target": "\"Жовта скринька\"",
+        "target": "\"Yellow Box\"",
         "show": "always"
       },
       "ff022efe-aaf1-934b-854e-93e95c031aef": {
         "source": "Courtesy of Tonequake Records",
-        "target": "За люб'язною допомогою Tonequake Records",
+        "target": "Надано завдяки Tonequake Records",
         "show": "always"
       }
     },
@@ -71116,7 +71116,7 @@
       },
       "79ff4c34-8ab6-e541-9b28-69e7115c513c": {
         "source": "Total Pieces of Cargo Delivered",
-        "target": "Загальна кількість вантажів, доставлених",
+        "target": "Загальна кількість доставлених вантажів",
         "show": "always"
       },
       "6954fc35-100f-7e46-bb05-dbdd9f99131c": {
@@ -72360,7 +72360,7 @@
       },
       "9e87b010-2a42-5046-b225-7415becc583e": {
         "source": "NAME",
-        "target": "ІМ'Я",
+        "target": "НАЙМЕНУВАННЯ",
         "show": "always"
       },
       "2fa0d319-59da-7f4e-a017-1956516a205d": {
@@ -73037,7 +73037,7 @@
       },
       "ad789eb9-d208-3a4b-85ff-d46f5236c9d4": {
         "source": "UNITS",
-        "target": "ОРГАН",
+        "target": "ОДИНИЦІ",
         "show": "always"
       },
       "a368d5b9-204d-cd49-bd7e-9b715cf22f5d": {
@@ -79843,7 +79843,7 @@
       },
       "a6ba9aea-684a-3843-b5cb-c65a03433c86": {
         "source": "\n<color name=cyan>Patch 11: Central Knot City</color>",
-        "target": "\n<color name=cyan>Патч 11: Центральне Місто Вузлів</color>",
+        "target": "\n<color name=cyan>Патч 11: Центральне Вузлове Місто</color>",
         "show": "always"
       },
       "83595eed-260d-fc40-9e97-99bea9876f18": {
@@ -79900,7 +79900,7 @@
       },
       "cb388618-8663-c44b-b93f-36bd529290fc": {
         "source": "Prologue: Porter",
-        "target": "Пролог: кур'єр",
+        "target": "Пролог: Кур'єр",
         "show": "always"
       },
       "1700441a-7f9f-5447-bb6a-595712dcd883": {
@@ -81400,7 +81400,7 @@
       },
       "fa3a2504-fa1c-2c47-838f-91b3df3f60cf": {
         "source": "Cryptobiote consumed.",
-        "target": "Спожито криптобіоту.",
+        "target": "Спожито криптобіота.",
         "show": "always"
       },
       "21edba04-7c6c-9d4c-9b90-aff86f617bb3": {
@@ -82245,7 +82245,7 @@
       },
       "523a807b-fd6b-9e45-98da-d61f85e81f1a": {
         "source": "Cryptobiote acquired.",
-        "target": "Криптобіоту отримано.",
+        "target": "Криптобіота отримано.",
         "show": "always"
       },
       "7dc4a17b-aea1-e14b-95e8-328e3f61aa10": {
@@ -82875,7 +82875,7 @@
       },
       "38b17ac0-da18-034b-a156-c826134dbd99": {
         "source": "Cargo for the \"{0}\" order acquired. Total now {1}/{2} (min.required: {3}.)",
-        "target": "Вантаж для замовлення \"{0}\" придбано. Загалом тепер {1}/{2} (мін. потрібно: {3}.)",
+        "target": "Вантаж для замовлення \"{0}\" отримано. Загалом тепер {1}/{2} (мін.потрібно: {3}.)",
         "show": "always"
       },
       "7170c5c0-c9c0-e84e-8785-c9a682f6bc16": {
@@ -84894,7 +84894,7 @@
       },
       "aa7df753-a2d2-eb4a-8abd-7bf08985e69b": {
         "source": "Central Knot City",
-        "target": "Центральне Місто Вузлів",
+        "target": "Центральне Вузлове Місто",
         "show": "always"
       },
       "18491254-a1b6-ad4c-bb83-ffc50fdd7bd1": {
@@ -84974,7 +84974,7 @@
       },
       "a691d358-1c7b-c14f-8432-abd0d0e80d4d": {
         "source": "So the core infrastructure is complete. The basic Q-pid-ready chiral network setup is good to go. Now all we have to do is connect Central Knot City to Capital and prove that it actually works. Sadly, I won't be here to see it. I've been assigned to the expedition team's second group, so I'll be heading west with the others.\nBut the people in charge here are the best of the best. They'll have the network operational inside of three years just as planned, I'm sure of it. And while they're seeing to that, we'll be visiting towns and whatnot across the country and putting the facilities in place for when things are finally up and running.\nAmelie and the others in the lead group will be forging the connections and laying the groundwork to make sure everything goes to plan. Afterwards, we'll just need to link it all up with operational Q-pids, and that should be that. Heh. It's kind of like the Apollo missions back in the day. They used a three-stage rocket to get to the moon, right? Well, we're using a three-stage process to do something almost as revolutionary.",
-        "target": "Отже, основна інфраструктура готова. Базове обладнання для підготовки до квантового переміщення через хіральну мережу налагоджено. Тепер нам лише потрібно з'єднати Центральне Вузло Місто з Капіталом і довести, що це справді працює. Нажаль, мені не буде пощастило бачити це. Мені було призначено до другої групи експедиції, тому я йду на захід разом з іншими. \nАле люди, які керують тут, - це кращі з кращих. Вони запустять мережу всередині трьох років, я певен у цьому. А поки вони цим займаються, ми будемо відвідувати міста та інші місця по всій країні, щоб підготувати усі необхідні установки для майбутньої роботи. \nАмелі та інші у лідерській групі будуть встановлювати зв'язки та закладати основу, щоб усе відбувалося за планом. Після цього нам лише потрібно буде з'єднати все це з операційними квантовими підготовками, і все буде готово. Ха. Це трохи нагадує події Аполлонових місій в минулому. Однак їм вдалося запустити ракету в три етапи, щоб дістатися до місяця, правда? Ну, ми використовуємо трьохетапний процес, щоб зробити щось майже таке ж революційне.",
+        "target": "Отже, основна інфраструктура готова. Базове налаштування хіральної мережі з підтримкою Q-pid готове до роботи. Тепер нам лише потрібно з'єднати Центральне Вузлове Місто зі Столичним і довести, що це справді працює. На жаль, мені не пощастить цього побачити. Мене було призначено до другої групи експедиції, тому я йду на захід разом з іншими. \nАле люди, які керують тут, - це кращі з кращих. Вони запустять мережу в межах трьох років, як і планувалося, я певен у цьому. А поки вони цим займаються, ми будемо відвідувати міста та інші місця по всій країні, щоб підготувати усі необхідні установки для майбутньої роботи. \nАмелі та інші у лідерській групі будуть встановлювати зв'язки та закладати основу, щоб усе відбувалося за планом. Після цього нам лише потрібно буде з'єднати все це з операційними Q-pid, і все буде готово. Ха. Це трохи нагадує події місій Аполло в минулому. Вони запустити триступеневу ракету, щоб дістатися до місяця, чи не так? Ну, ми використовуємо трьохетапний процес, щоб зробити щось майже таке ж революційне.",
         "show": "always"
       },
       "fddeed59-84c4-144b-9980-5183df97de92": {
@@ -85404,7 +85404,7 @@
       },
       "06ee429c-0b52-8b47-bcab-96d6fd448413": {
         "source": "What Became of Fragile",
-        "target": "Що сталося з Фрейджайл",
+        "target": "Що сталося з Фреджайл",
         "show": "always"
       },
       "edda819c-ca97-1b4a-a9c0-c74eef55b3b1": {
@@ -87814,7 +87814,7 @@
       },
       "c7a00d70-f521-ba4d-a911-678fa3c6c51d": {
         "source": "Middle Knot City/Crater Rim",
-        "target": "Центральне місто/Кратерна дільниця",
+        "target": "Центральне Вузлове Місто/Кратерний Вал",
         "show": "always"
       },
       "d20a5670-480b-254b-8b34-e19fc6a110df": {
@@ -87864,7 +87864,7 @@
       },
       "da96e175-a3f4-1042-8648-44c481069419": {
         "source": "Central Knot City",
-        "target": "Центральне місто Капітална Петля",
+        "target": "Центральне Вузлове Місто",
         "show": "always"
       },
       "67080876-d72d-2f4e-abb4-27800f5ec1dc": {
@@ -87919,7 +87919,7 @@
       },
       "4e76ff7a-3aed-e040-92b4-64c16b8aa391": {
         "source": "Central Knot City",
-        "target": "Центральне Вузло місто",
+        "target": "Центральне Вузлове Місто",
         "show": "always"
       },
       "ef44857b-32ce-2d47-b709-0328ae8ab4e7": {
@@ -88289,7 +88289,7 @@
       },
       "4aaeaea8-71a7-1c42-9cb2-ec730acac147": {
         "source": "Central Knot City ",
-        "target": "Центральне Місто Капела",
+        "target": "Центральне Вузлове Місто",
         "show": "always"
       },
       "fdc98faa-d3ac-9c45-8e64-14333b5872a5": {
@@ -88999,7 +88999,7 @@
       },
       "a8d472fb-0bfa-b747-a88d-326dbbde8317": {
         "source": "UCA-01-020: Delivery Center",
-        "target": "УКС-01-020: Центр доставки",
+        "target": "UCA-01-020: Центр доставки",
         "show": "always"
       },
       "09928cfb-98e2-cc4a-a2dc-620ce806b8ee": {
@@ -89014,12 +89014,12 @@
       },
       "30ecccfb-b0c1-304a-9291-6ee17af178b6": {
         "source": "UCA-23-105",
-        "target": "УКС-23-105",
+        "target": "UCA-23-105",
         "show": "always"
       },
       "772115fc-06f4-f54f-be6b-8e74a8cc788a": {
         "source": "UCA-41-057: Bridges Distribution Center",
-        "target": "УКС-41-057: Центр розподілу Мостів",
+        "target": "UCA-41-057: Центр розподілу Мостів",
         "show": "always"
       },
       "f4bf8dfc-b860-3e4c-9737-509a9196f79d": {
@@ -89029,7 +89029,7 @@
       },
       "7a07d6fc-3194-794c-9825-67d7bc56428a": {
         "source": "UCA-23-319",
-        "target": "УКС-23-319",
+        "target": "UCA-23-319",
         "show": "always"
       },
       "fd3243fd-24e3-2a4f-b4ba-895e05865722": {
@@ -89563,7 +89563,7 @@
       },
       "6a9ec530-0d80-f14f-a1a2-3f742206de59": {
         "source": "I did it, Sam! Your safe house is ready and waiting for you!<icon name=faceicon_smile> I just got to Mountain Knot City, and figured this'd be a good time to write and let you know.\nMan, I was so sure I was gonna get ambushed by terrorists, or run into a bunch of BTs somewhere along the way, but nope! Made it there and back in one piece!<icon name=faceicon_good> I don’t want to make myself out to be a hero, though. The safe house had already been built by the time I reached Mountain Knot. Maybe HQ didn’t trust me to do the job and asked someone else to take care of it? Nah...they wouldn’t do that. And besides, we don't have the people to spare. Someone must have built it, though, but who?<icon name= faceicon_think>\nYou know what, though? The safe house wasn’t all I found waiting for me. There was a ladder, too.<icon name=faceicon_love> Makes one hell of a difference knowing you're not alone. Cheered me up to no end, I can tell you.<icon name=faceicon_good> Hey—was it you who put it there? Well, if it was, thanks. Heh. Kinda feels like we're partners now.<icon name=faceicon_good>\nCame across a bunch of dropped cargo, too. Thought I could do somebody a good turn by delivering it, but...well, it was just too heavy. Had to leave it behind.<icon name=faceicon_cry> Still, I was riding high. Even got up the nerve to finally try a cryptobiote at one point. Not my thing, I have to say...<icon name=faceicon_bad> Some porter I met a ways back told me I oughta try to eat one a day. Ha! Screw that!\nOh, he said he'd drop by the safe house with some materials once it was up and running. I'd wager a whole bunch of people are leaving stuff there for others now—doesn't take long for word to spread through our little community, after all.<icon name=faceicon_love> We're not alone out here, Sam—don't you ever forget that! Stay strong!<icon name=faceicon_smile>\n<icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good>",
-        "target": "Я зробив це, Семене! Твій будинок-притулок готовий і чекає на тебе!<icon name=faceicon_smile> Я щойно дістався до Міста Кільця на горі і думав, що це гарний момент, щоб написати тобі.\nЛюди, я був так впевнений, що мене нападуть терористи чи я натраплю на кілька БТ по дорозі, але зі штучок! Дістався туди й назад цілий та безпечно!<icon name=faceicon_good> Хочу сказати, що я не намагаюсь зобразити себе героєм. Притулок вже був побудований, коли я дістався до Міста Кільця. Можливо, штаб не довіряв мені з цією справою й попросив когось іншого ним зайнятися? Ні... вони б цього не зробили. І під тим логічним, у нас не вистачає людей. Але хтось повинен був його побудувати, але хто?<icon name= faceicon_think>\nА знаєш що? Окрім притулку я знайшов там ще й сходи.<icon name=faceicon_love> Це робить велику різницю знати, що ти не один. Це мене дуже підняло на духу, повір мені.<icon name=faceicon_good> Ти не той, хто їх встановив, чи таки ти? Ну, якщо ти, дякую. Ха. Якось відчутно, ніби ми тепер партнери.<icon name=faceicon_good> Також я натрапив на купу випавших вантажів. Думав, що можу зробити комусь добру справу, виконавши доставку, але...ну, вони були просто занадто важкі. Довелося залишити їх.\nПроте, я був на підйомі. Навіть намагався спробувати криптобіоту в один момент. Моє не. Мусив відмовитися...<icon name=faceicon_bad> Якийсь кур'єр, якого я зустрів дорогою, казав мені, що мені варто спробувати їсти по одному щодня. Ха! Забий на це!\nО, він сказав, що заходить до притулку з матеріалами, як тільки він почне працювати. Я б переклав, що цілий великий суспільний потік залишає там речі для інших, все-таки слово швидко поширюєтся в нашій маленькій спільноті.<icon name=faceicon_love> Тут нікого не забули, Семене. Міцніть!\n<icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good>",
+        "target": "Я зробив це, Семене! Твій будинок-притулок готовий і чекає на тебе!<icon name=faceicon_smile> Я щойно дістався до Міста Кільця на горі і думав, що це гарний момент, щоб написати тобі.\nЛюди, я був так впевнений, що мене нападуть терористи чи я натраплю на кілька БТ по дорозі, але зі штучок! Дістався туди й назад цілий та безпечно!<icon name=faceicon_good> Хочу сказати, що я не намагаюсь зобразити себе героєм. Притулок вже був побудований, коли я дістався до Міста Кільця. Можливо, штаб не довіряв мені з цією справою й попросив когось іншого ним зайнятися? Ні... вони б цього не зробили. І під тим логічним, у нас не вистачає людей. Але хтось повинен був його побудувати, але хто?<icon name= faceicon_think>\nА знаєш що? Окрім притулку я знайшов там ще й сходи.<icon name=faceicon_love> Це робить велику різницю знати, що ти не один. Це мене дуже підняло на духу, повір мені.<icon name=faceicon_good> Ти не той, хто їх встановив, чи таки ти? Ну, якщо ти, дякую. Ха. Якось відчутно, ніби ми тепер партнери.<icon name=faceicon_good> Також я натрапив на купу випавших вантажів. Думав, що можу зробити комусь добру справу, виконавши доставку, але...ну, вони були просто занадто важкі. Довелося залишити їх.\nПроте, я був на підйомі. Навіть намагався спробувати криптобіота в один момент. Моє не. Мусив відмовитися...<icon name=faceicon_bad> Якийсь кур'єр, якого я зустрів дорогою, казав мені, що мені варто спробувати їсти по одному щодня. Ха! Забий на це!\nО, він сказав, що заходить до притулку з матеріалами, як тільки він почне працювати. Я б переклав, що цілий великий суспільний потік залишає там речі для інших, все-таки слово швидко поширюєтся в нашій маленькій спільноті.<icon name=faceicon_love> Тут нікого не забули, Семене. Міцніть!\n<icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good>",
         "show": "always"
       },
       "33e75331-4ec1-c54e-9cb5-af7b0b54c845": {
@@ -89753,7 +89753,7 @@
       },
       "28f8e842-8740-aa4a-951c-db02a0b64541": {
         "source": "To the Super-Honorable Mister Sam Bridges,\nIt gives me great pleasure to report that the waystation patch-up job went off without a hitch!<icon name= faceicon_good> That stuff you brought us was just what we needed, man. And now we're part of the network too! No waystation is an island—not anymore! We can talk to HQ over on the east coast just like if they were here in the room.\nWhich is, uh...that's how we heard those rumors about Central were true. Totally wiped out, huh? Damn.<icon name= faceicon_death> And if you hadn't been there, the UCA's plans would've gone down the tubes? Glad that didn't happen. Keep on keeping on, and don't stop till you hit the ocean!\n<icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good>",
-        "target": "Дуже Пошанований Пане Семене Аскольдовичу Мостенко,\nМені дуже приємно повідомити, що ремонт станції пройшов без проблем!<icon name= faceicon_good> Ті речі, які ти приніс нам, були саме тим, що нам потрібно. І зараз ми також частина мережі! Жодна станція не є островом – вже ніколи! Ми можемо спілкуватись з головним офісом на східному узбережжі, наче вони тут у кімнаті.\nДо речі, ото це як раз через це ми почули, що чутки про Центральне місто правдиві. Абсолютно перейняли, га? Чорт.\nІ якби тебе там не було, плани UCA могли піти працювати. Щастить, що це не сталося. Продовжуй йти своєю дорогою, і не зупиняйся, поки не дійдеш до океану!\n<icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good>",
+        "target": "Вельмишанований Пане Семене Аскольдовичу Мостенко,\nМені дуже приємно повідомити, що ремонт станції пройшов без проблем!<icon name= faceicon_good> Ті речі, які ти приніс нам, були саме тим, що нам потрібно. І зараз ми також частина мережі! Жодна станція не є островом – тепер так точно! Ми можемо спілкуватись з головним офісом на східному узбережжі, наче вони тут у кімнаті.\nДо речі, ото це як раз через це ми дізнались, що чутки про Центральне правдиві. Повністю знищене, га? Чорт.<icon name= faceicon_death> І якби тебе там не було, плани UCA могли б спрацювати? Радий, що цього не сталося. Продовжуй йти своєю дорогою, і не зупиняйся, поки не дійдеш до океану!\n<icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good><icon name= faceicon_good>",
         "show": "always"
       },
       "dce80843-d105-0649-8df1-693e7a6856b7": {
@@ -90453,7 +90453,7 @@
       },
       "35677294-4afe-5147-82ef-78064f10f03b": {
         "source": "Hey, Sam, have you eaten that <color name=yellow>cryptobiote</color> I gave you yet? It's one of several I found inside a gourd, you know. Yes, I was surprised, too. But maybe I shouldn’t have been. Gourds are pretty weird and wonderful, after all. I told you before about how they were once thought to ward off evil spirits, right?<icon name= faceicon_smile>\nAnyway, I figured that a cryptobiote from a gourd’s got to be a bit special, so I decided to chow down on one to see what would happen. The effect was practically immediate. It was like I’d fallen into some kind of dreamland.<icon name= faceicon_love>\nNow, I know what you’re thinking, but it wasn’t like I was tripping on drugs or anything like that. This was something really real, and not entirely in my head. I even did some reading afterwards and deduced that it was actually a special type of cryptobiote—maybe even a mutation—and that <color name=yellow>eating it sends your hematic regeneration levels through the roof</color>.<icon name= faceicon_smile>\nSo that really changed things. I didn’t want to bother with regular gourds any more, only the bad boys with these 'biotes growing inside them. I’ve decided to call them \n“<color name=yellow>D-cryptobiotes</color>,”  by the way. D for “dream,” get it? The taste is a bit dreamy too, once you get used to it. Kind of... well balanced or something, like herbal medicine. The good kind, I mean.<icon name= faceicon_love>\nI’ve got a feeling it’s not going to be for everyone, though. Those with less cultivated palates might even find them disgusting.<icon name= faceicon_death> You’re not that fussy, though, are you, Sam? Go on, taste the dream! I just know you'll love it!",
-        "target": "Привіт, Семене, а ти вже з'їв ту <color name=yellow>криптобіоту</color>, що я тобі дав? Виявляється, їх багато виростає всередині гарбуза. Так, як і ти, я теж був здивований. Але, можливо, мені не варто було. Гарбузи, вони такі дивовижні та чудесні, насправді. Я ж вже раніше розповідав тобі, що їх колись вважали оберегами від злих духів, чи не так? <icon name= faceicon_smile>\nВзагалі-то, я зрозумів, що криптобіота з гарбуза має бути особливою, тому я вирішив спробувати та подивитися, що буде. Ефект майже ж відразу. Це було, наче я потрапив у якусь країну мрій. <icon name= faceicon_love>\nТепер знаю, що ти подумаєш, але це було не так, ніби я перебував на одурманюючих речовинах. Це було реально, і це було не зовсім у моїй уяві. Я навіть знайшов пізніше деяку інформацію та вивів, що це справді особливий вид криптобіоти — можливо, навіть мутація — та те, що <color name=yellow>споживання її вибухово підвищує воскрешуючі здатності крові</color>. <icon name= faceicon_smile>\nОтже, це справді змінило усе. Тепер мені не цікавлять звичайні гарбузи, тільки поганяшки з такими біотами всередині. До речі, я вирішив їх назвати \n“<color name=yellow>D-криптобіотами</color>”, зрозуміло. D від “мрія”, розумієш? Смак трохи мрійний, якщо ти звикнеш до нього. Такий... збалансований, чи щось подібне, як трав'яна медицина. Добру, мається на увазі. <icon name= faceicon_love>\nУ мене враження, що це не сподобається кожному. Ті, кому менше вдалося виховати свій смак, можуть взагалі знайти їх огидними.<icon name= faceicon_death> А тобі ясно не до цього, чи не так, Семене? Давай, смакуй мрію! Я впевнений, тобі сподобається!",
+        "target": "Привіт, Семене, а ти вже з'їв ту <color name=yellow>криптобіота</color>, що я тобі дав? Виявляється, їх багато виростає всередині гарбуза. Так, як і ти, я теж був здивований. Але, можливо, мені не варто було. Гарбузи, вони такі дивовижні та чудесні, насправді. Я ж вже раніше розповідав тобі, що їх колись вважали оберегами від злих духів, чи не так? <icon name= faceicon_smile>\nВзагалі-то, я зрозумів, що криптобіота з гарбуза має бути особливою, тому я вирішив спробувати та подивитися, що буде. Ефект майже ж відразу. Це було, наче я потрапив у якусь країну мрій. <icon name= faceicon_love>\nТепер знаю, що ти подумаєш, але це було не так, ніби я перебував на одурманюючих речовинах. Це було реально, і це було не зовсім у моїй уяві. Я навіть знайшов пізніше деяку інформацію та вивів, що це справді особливий вид криптобіоти — можливо, навіть мутація — та те, що <color name=yellow>споживання її вибухово підвищує воскрешуючі здатності крові</color>. <icon name= faceicon_smile>\nОтже, це справді змінило усе. Тепер мені не цікавлять звичайні гарбузи, тільки поганяшки з такими біотами всередині. До речі, я вирішив їх назвати \n“<color name=yellow>D-криптобіотами</color>”, зрозуміло. D від “мрія”, розумієш? Смак трохи мрійний, якщо ти звикнеш до нього. Такий... збалансований, чи щось подібне, як трав'яна медицина. Добру, мається на увазі. <icon name= faceicon_love>\nУ мене враження, що це не сподобається кожному. Ті, кому менше вдалося виховати свій смак, можуть взагалі знайти їх огидними.<icon name= faceicon_death> А тобі ясно не до цього, чи не так, Семене? Давай, смакуй мрію! Я впевнений, тобі сподобається!",
         "show": "always"
       },
       "701cb194-86eb-0247-9e99-4b2e3c02b7ea": {
@@ -91078,7 +91078,7 @@
       },
       "794808d3-4eb7-1b44-8c34-1d472975450d": {
         "source": "I did it, Sam! Your safe house is ready and waiting for you!<icon name=faceicon_smile> I just got to Mountain Knot City, and figured this'd be a good time to write and let you know.\nMan, I was so sure I was gonna get ambushed by terrorists, or run into a bunch of BTs somewhere along the way, but nope! Made it there and back in one piece!<icon name=faceicon_good>\nMore than anything, though, it was the loneliness that worried me—that I'd be feeling it even worse on the return trip. Not a single other soul in sight, just desolate, soul-crushing emptiness stretching from horizon to horizon...<icon name=faceicon_death>\nBut you know what I found? A ladder! Somebody else had come through before me!<icon name=faceicon_love> Makes one hell of a difference knowing you're not alone. Cheered me up no end, I can tell you.<icon name=faceicon_good> Hey—was it you who put it there? Well, if it was, thanks. Heh. Kinda feels like we're partners now.<icon name=faceicon_good>\nCame across a bunch of dropped cargo, too. Thought I could do somebody a good turn by delivering it, but...well, it was just too heavy. Had to leave it behind.<icon name=faceicon_cry> Still, I was riding high. Even got up the nerve to finally try a cryptobiote at one point. Not my thing, I have to say...<icon name=faceicon_bad> Some porter I met a ways back told me I oughta try to eat one a day. Ha! Screw that!\nOh, he said he'd drop by the safe house with some materials once it was up and running. I'd wager a whole bunch of people are leaving stuff there for others now—doesn't take long for word to spread through our little community, after all.<icon name=faceicon_love> We're not alone out here, Sam—don't you ever forget that! Stay strong!<icon name=faceicon_smile>",
-        "target": "Я зробив це, Семене! Твій притулок готовий та чекає на тебе!<icon name=faceicon_smile> Я щойно дістався до Маунтін-Кнот-Сіті та зрозумів, що це чудовий момент, щоб написати тобі й повідомити.\nЛюди, я був такий впевнений, що мене нападуть терористи або я натраплю на кілька BT десь по дорозі, але цього не сталося! Додому добрався без пригод!<icon name=faceicon_good>\nАле найбільше мене хвилювала самотність—що мені буде ще гірше по дорозі назад. Ні душі навколо, лише пустеля, яка душить душу, тягнеться від горизонту до горизонту...<icon name=faceicon_death>\nТа взнаєш, що я знайшов? Сходи! Кимось іншим першим пройшов хтось інший!<icon name=faceicon_love> Так краще знати, що ти не сам. Надзвичайно підняло мені настрій, я тобі скажу.<icon name=faceicon_good> А, мабуть, це ти їх там встановив? Ну, якщо так, то дякую. Воно таки потроху починає виглядати, що ми партнери тепер.<icon name=faceicon_good>\nТакож натрапив на купу випавших вантажів. Я подумав, що можу зробити комусь хороше діло, доставивши його, але... виявився надто важким. Довелося залишити.\n<icon name=faceicon_cry> Але я був на хвилі. Навіть наважився спробувати криптобіоту в один момент. Не моє, мушу сказати...<icon name=faceicon_bad> Якийсь кур'єр, якого я зустрів, радив мені спробувати їсти по одному щодня. Ха! Ніколи більше!\nО, він сказав, що залишить матеріали в притулку, якщо той буде готовий і працюватиме. Я ставлю, що багато людей залишає там різні речі для інших—не треба довго чекати, щоб це розійшлося серед нашої маленької спільноти, власне.<icon name=faceicon_love> Ми не самі, Семене—ніколи цього не забувай! Будь міцним!<icon name=faceicon_smile>",
+        "target": "Я зробив це, Семене! Твій притулок готовий та чекає на тебе!<icon name=faceicon_smile> Я щойно дістався до Маунтін-Кнот-Сіті та зрозумів, що це чудовий момент, щоб написати тобі й повідомити.\nЛюди, я був такий впевнений, що мене нападуть терористи або я натраплю на кілька BT десь по дорозі, але цього не сталося! Додому добрався без пригод!<icon name=faceicon_good>\nАле найбільше мене хвилювала самотність—що мені буде ще гірше по дорозі назад. Ні душі навколо, лише пустеля, яка душить душу, тягнеться від горизонту до горизонту...<icon name=faceicon_death>\nТа взнаєш, що я знайшов? Сходи! Кимось іншим першим пройшов хтось інший!<icon name=faceicon_love> Так краще знати, що ти не сам. Надзвичайно підняло мені настрій, я тобі скажу.<icon name=faceicon_good> А, мабуть, це ти їх там встановив? Ну, якщо так, то дякую. Воно таки потроху починає виглядати, що ми партнери тепер.<icon name=faceicon_good>\nТакож натрапив на купу випавших вантажів. Я подумав, що можу зробити комусь хороше діло, доставивши його, але... виявився надто важким. Довелося залишити.\n<icon name=faceicon_cry> Але я був на хвилі. Навіть наважився спробувати криптобіота в один момент. Не моє, мушу сказати...<icon name=faceicon_bad> Якийсь кур'єр, якого я зустрів, радив мені спробувати їсти по одному щодня. Ха! Ніколи більше!\nО, він сказав, що залишить матеріали в притулку, якщо той буде готовий і працюватиме. Я ставлю, що багато людей залишає там різні речі для інших—не треба довго чекати, щоб це розійшлося серед нашої маленької спільноти, власне.<icon name=faceicon_love> Ми не самі, Семене—ніколи цього не забувай! Будь міцним!<icon name=faceicon_smile>",
         "show": "always"
       },
       "a2b970d4-8176-044a-89aa-1d9be39a6928": {
@@ -92104,7 +92104,7 @@
       },
       "31c53111-81a2-f242-be70-219496a73413": {
         "source": "Return",
-        "target": "Повернутися",
+        "target": "Повернути",
         "show": "always"
       },
       "7b257912-1b98-b145-9947-caa47e8ef448": {
@@ -92879,12 +92879,12 @@
       },
       "954670cc-6d2d-fd4c-87cd-d96466c468d1": {
         "source": "Name",
-        "target": "Ім'я",
+        "target": "Найменування",
         "show": "always"
       },
       "f80034cd-965d-7344-858b-2b767a223d78": {
         "source": "Return",
-        "target": "Повернутися",
+        "target": "Повернути",
         "show": "always"
       },
       "24134ecd-7d6e-9b43-b460-75c6b06a1604": {
@@ -93228,7 +93228,7 @@
       },
       "aac66e20-bc95-4c47-952b-c92d049a8676": {
         "source": "Return",
-        "target": "Повернутися",
+        "target": "Повернути",
         "show": "always"
       },
       "00da5021-f590-b343-bdb3-b1f1179b229b": {
@@ -93378,7 +93378,7 @@
       },
       "6c99364f-8802-a44f-b7d7-bf334048d63d": {
         "source": "NAME",
-        "target": "ІМ'Я",
+        "target": "НАЙМЕНУВАННЯ",
         "show": "always"
       },
       "d5082550-23e2-8246-89d6-a82e4d5a93b1": {
@@ -93548,7 +93548,7 @@
       },
       "225cdb6f-2075-bb4a-9117-6df7e9c917f4": {
         "source": "Name",
-        "target": "Ім'я",
+        "target": "Найменування",
         "show": "always"
       },
       "686f1671-0593-a548-9a53-228faed2a519": {
@@ -93773,7 +93773,7 @@
       },
       "3ac570a2-2619-f94d-9287-8f19acf6acac": {
         "source": "Predicted Likes: {0}",
-        "target": "Припущені вподобання: {0}",
+        "target": "Прогнозовані Вподобайки: {0}",
         "show": "always"
       },
       "094064a3-0aff-7c47-acde-82d3da2add4f": {
@@ -93808,7 +93808,7 @@
       },
       "34c824a7-03d1-f34f-8cd8-47f97ef8309b": {
         "source": "{0} order(s) can be completed.",
-        "target": "{0} замовлення(й) можна виконати.",
+        "target": "{0} замовлення(нь) можна виконати.",
         "show": "always"
       },
       "a0fbfca8-a53e-4549-b4e4-9c2c1cc007c9": {
@@ -100399,7 +100399,7 @@
       },
       "5a810153-0a92-1f4f-b992-25ed3667d2aa": {
         "source": "Delivery: Health Drinks Containing Cryptobiote Extract",
-        "target": "Доставка: Здоров'я напої, які містять екстракт криптобіоту",
+        "target": "Доставка: Здоров'я напої, які містять екстракт криптобіота",
         "show": "always"
       },
       "b0b61d53-dcb4-1640-ba93-0be5c41c8128": {
@@ -106721,7 +106721,7 @@
       },
       "f155c958-93b1-034e-aaed-2c1cbae8e092": {
         "source": "In order to find out more about Amelie's true intentions, you will have to follow her to her Beach. You'll need Fragile's help to get there, but she's not in the best physical condition at the moment. Fragile Express's research into cryptobiotes is one step ahead of Bridges', so go and fetch some of their high-performance samples, and deliver them to the isolation ward in Capital Knot City.",
-        "target": "Щоб дізнатися більше про справжні наміри Амелі, вам доведеться йти за нею на її пляж. Вам знадобиться допомога Фрейджайл, але вона зараз не в найкращому фізичному стані. Дослідження Фрейджайл Експрес в галузі криптобіот дало результати, що кращі, ніж у Мостов, тож піди та витягни деякі їх високоефективні зразки і достав їх до ізоляційного відділення у Капітальному вузлі моста.",
+        "target": "Щоб дізнатися більше про справжні наміри Амелі, вам доведеться йти за нею на її пляж. Вам знадобиться допомога Фреджайл, але вона зараз не в найкращому фізичному стані. Дослідження Фреджайл Експрес в галузі криптобіот дало результати, що кращі, ніж у Мостов, тож піди та витягни деякі їх високоефективні зразки і достав їх до ізоляційного відділення у Капітальному вузлі моста.",
         "show": "always"
       },
       "28f20b59-ce09-7040-8a49-d3dcb50cfeaa": {
@@ -110145,7 +110145,7 @@
       },
       "8d9d3d3d-52cb-324a-bfd9-b4b0b8238377": {
         "source": "Likes Earned for Completing the Order",
-        "target": "Любов від здійснення замовлення",
+        "target": "Вподобайки за здійснення замовлення",
         "show": "always"
       },
       "c8f2643e-3e27-1046-b2fd-4f7e9a7de302": {
@@ -110195,7 +110195,7 @@
       },
       "cd351546-7c30-e043-8cc7-66e5fa250e29": {
         "source": "Miscellaneous",
-        "target": "Різне",
+        "target": "Інше",
         "show": "always"
       },
       "ba3f7a46-faa0-7747-a266-031c327d37f1": {
@@ -110330,7 +110330,7 @@
       },
       "0f52a864-e27f-f944-a250-68b85d270028": {
         "source": "Bridge Link",
-        "target": "Зв'язок Мостів",
+        "target": "Bridge Link",
         "show": "always"
       },
       "fd35a865-7930-ec45-8541-a4141a6f53da": {
@@ -110355,7 +110355,7 @@
       },
       "dab0686b-62b0-ea4f-9ac9-16689a1dae40": {
         "source": "Miscellaneous",
-        "target": "Різне",
+        "target": "Інше",
         "show": "always"
       },
       "15cbb36b-21e2-164a-bb63-432eb961196c": {
@@ -110370,7 +110370,7 @@
       },
       "354e746c-b554-9642-b414-c77672708ed4": {
         "source": "Porter Grade",
-        "target": "Оцінка перевізника",
+        "target": "Оцінка кур'єра",
         "show": "always"
       },
       "bffaae6c-d790-e248-ba0d-1d4edd1cb79d": {
@@ -113974,7 +113974,7 @@
       },
       "b9f55804-ad36-db4f-a8bd-15f6c9d3c828": {
         "source": "SILENT POETS",
-        "target": "Сайлент Поетс",
+        "target": "SILENT POETS",
         "show": "always"
       },
       "b7fc5605-73fc-124c-af8c-df8263738f08": {
@@ -114029,7 +114029,7 @@
       },
       "6f97a10d-d517-ab41-a701-8ae7f140d2d4": {
         "source": "Hideo Kojima",
-        "target": "Хідео Кодзіма",
+        "target": "Хідео Коджіма",
         "show": "always"
       },
       "e4e3280e-7306-3f4a-b0eb-6b9a4ec4e09d": {
@@ -114044,7 +114044,7 @@
       },
       "79252d10-23f5-8f46-8aed-f173e05928e3": {
         "source": "LEAD UI ARTIST",
-        "target": "Головний художник інтерфейсу користувача",
+        "target": "Головний художник UI",
         "show": "always"
       },
       "6f1cb710-4e7a-5444-82cb-6499dd6415e6": {
@@ -114269,7 +114269,7 @@
       },
       "472eb528-fb14-c749-82cd-9cdd63f30ea0": {
         "source": "Audio Director",
-        "target": "Автодиректор з аудіо",
+        "target": "Звукорежисер",
         "show": "always"
       },
       "2a176e29-5ead-5c49-a2f9-5fa3c5693988": {
@@ -114939,7 +114939,7 @@
       },
       "64f6897c-4816-7140-9034-756af3acf559": {
         "source": "HIDEO KOJIMA",
-        "target": "Хідео Кодзіма",
+        "target": "ХІДЕО КОДЖІМА",
         "show": "always"
       },
       "dd348e7c-bcec-2f4b-8b25-b39182897efd": {
@@ -114949,12 +114949,12 @@
       },
       "29d0ac7c-a1e2-af47-acbb-b6604a5c4494": {
         "source": "Written by",
-        "target": "Написано",
+        "target": "Автор сценарію",
         "show": "always"
       },
       "2ecc597d-d5e6-1347-ad27-8c58843a3436": {
         "source": "SATOSHI MATSUNO",
-        "target": "Сатоші Мацуно",
+        "target": "САТОШІ МАЦУНО",
         "show": "always"
       },
       "58d30b7e-e6df-2543-909a-3d5cdebd0029": {
@@ -114964,7 +114964,7 @@
       },
       "8837b37e-9630-8244-a3c6-bcce3db1cc95": {
         "source": "Hideo Kojima",
-        "target": "Хідео Кодзіма",
+        "target": "Хідео Коджшкаіма",
         "show": "always"
       },
       "5d0e477f-0672-334e-bd25-90b492158065": {
@@ -116781,7 +116781,7 @@
       },
       "57ba50e9-1abd-d541-9c41-2fa167ed78ec": {
         "source": "Statistical analysis has indicated that DOOMS abilities vary according to the sufferer's date of birth.\nIn order to establish your own ability levels, please enter your birthday.",
-        "target": "Статистичний аналіз показав, що здібності Людини В'язні варіюються в залежності від дати народження страждаючого.\nДля визначення власних рівнів здібностей, будь ласка, введіть свій день народження.",
+        "target": "Статистичний аналіз показав, що здібності DOOMS варіюються залежно від дати народження страждаючого.\nДля визначення власних рівнів здібностей, будь ласка, введіть свій день народження.",
         "show": "always"
       },
       "826057e9-aacf-9049-8fba-1aed2fd8553d": {
@@ -117458,7 +117458,7 @@
       },
       "d5bad870-fb98-6a4c-92a6-d62107e18d0e": {
         "source": "Deliver requested cargo and cargo dropped by others.",
-        "target": "Доставити запитане вантаження та вантаж, випущений іншими.",
+        "target": "Доставити запитаний вантаж та вантаж, загублений іншими.",
         "show": "always"
       },
       "4230c071-6811-284b-b5cd-20560055f751": {
@@ -118083,7 +118083,7 @@
       },
       "3ecae2f3-e2cd-b049-afb9-925492f9b833": {
         "source": "Terminal Options",
-        "target": "Варіанти терміналу",
+        "target": "Параметри терміналу",
         "show": "always"
       },
       "30974ef4-9cf8-5441-a529-be4f94b6b399": {
@@ -119640,7 +119640,7 @@
       },
       "22103656-a7dd-b244-9144-412725506d29": {
         "source": "Carrying too much cargo will make it easier to lose your balance. \nIf you find yourself swaying left or right, use <ds-ficon name=acta_LeftSideAction[A]> or <ds-ficon name=acta_RightSideAction[A]> to shift your weight in the opposite direction and recover balance.",
-        "target": "Перенесення надто великого вантажу може спричинити втрату рівноваги. Якщо ви відчуваєте коливання ліворуч або праворуч, скористайтесь <ds-ficon name=acta_LeftSideAction[A]> чи <ds-ficon name=acta_RightSideAction[A]> для перенесення ваги в протилежний бік та відновлення рівноваги.",
+        "target": "Перенесення забагато вантажу може спричинити втрату рівноваги. \nЯкщо ви відчуваєте коливання ліворуч або праворуч, скористайтесь <ds-ficon name=acta_LeftSideAction[A]> чи <ds-ficon name=acta_RightSideAction[A]> для перенесення ваги в протилежний бік та відновлення рівноваги.",
         "show": "always"
       },
       "affb6056-cf12-e046-b391-ea27b1847a95": {
@@ -120010,7 +120010,7 @@
       },
       "2cbe3970-f00d-c143-a594-69eda24baa06": {
         "source": "The odradek can scan for cargo tags. \nEvery piece of cargo has a tag attached.",
-        "target": "Odradek може сканувати мітки вантажу. \nКожен вантаж має прикріплену мітку.",
+        "target": "Одрадек може сканувати мітки вантажу. \nКожен вантаж має прикріплену мітку.",
         "show": "always"
       },
       "5e249070-7acf-3640-a585-c668c358163c": {
@@ -120025,7 +120025,7 @@
       },
       "3839c570-eadf-f54b-9be1-2181c7846f52": {
         "source": "Carrying Too Much Cargo",
-        "target": "Перевищення вантажу",
+        "target": "Перенесення забагато вантажу",
         "show": "always"
       },
       "1a0ac970-706a-5241-837d-78f6d9f0b915": {
@@ -120190,7 +120190,7 @@
       },
       "95f01a79-3887-c043-b66c-97979fadc147": {
         "source": "<ds-ficon name=acta_Jump>: Jump/Climb, Hold <ds-ficon name=acta_Jump[H]>: Climb Continuously",
-        "target": "<ds-ficon name=acta_Jump>: Пстрибок/Підйом, Натисніть і утримуйте <ds-ficon name=acta_Jump[H]>: Підйом безперервно",
+        "target": "<ds-ficon name=acta_Jump>: Стрибок/Підйом, Натисніть і утримуйте <ds-ficon name=acta_Jump[H]>: Тривалий підйом",
         "show": "always"
       },
       "543df479-c42a-e743-b3d5-fe0198e8048b": {
@@ -120590,7 +120590,7 @@
       },
       "52c29d8f-363a-cb45-a816-70fc460afef6": {
         "source": "When you see the <ds-ficon name=acta_Action[H]> icon, you will need to hold down <ds-ficon name=acta_Action>. Try holding it down until the delivery terminal responds.\n\nNote that you will also need to hold down buttons other than <ds-ficon name=acta_Action>. For example, when you see the <ds-ficon name=hudh_ItemSlctr[H]> icon, you will need to hold down <ds-ficon name=hudh_ItemSlctr>.",
-        "target": "Коли ви бачите піктограму <ds-ficon name=acta_Action[H]>, вам доведеться утримувати <ds-ficon name=acta_Action>. Спробуйте утримувати його до того часу, поки термінал доставки не відповість.\n\nЗверніть увагу, що вам також доведеться утримувати інші кнопки окрім <ds-ficon name=acta_Action>. Наприклад, коли ви бачите піктограму <ds-ficon name=hudh_ItemSlctr[H]>, вам доведеться утримувати <ds-ficon name=hudh_ItemSlctr>.",
+        "target": "Коли ви бачите значок <ds-ficon name=acta_Action[H]>, вам потрібно утримувати <ds-ficon name=acta_Action>. Спробуйте утримувати її до того часу, поки термінал доставки не відповість.\n\nЗверніть увагу, що вам також доведеться утримувати інші кнопки окрім <ds-ficon name=acta_Action>. Наприклад, коли ви бачите значок <ds-ficon name=hudh_ItemSlctr[H]>, вам доведеться утримувати <ds-ficon name=hudh_ItemSlctr>.",
         "show": "always"
       },
       "941ea58f-22db-f649-a346-8204275ff5c4": {
@@ -120680,7 +120680,7 @@
       },
       "7917b994-13c8-cf40-b71d-31b65c8279ac": {
         "source": "<icon name=gaiji_arrow_down_green>: Tall Grass (You can hide from enemies here.)\n<icon name=gaiji_tri_down_red>: Bottomless Tar (You will gradually sink if you enter.)\n<icon name=gaiji_circle_blue>: Path/Road\n<icon name=gaiji_hotsprings>: Hot Spring",
-        "target": "<icon name=gaiji_arrow_down_green>: Висока трава (Тут ви можете приховатися від ворогів.)\n<icon name=gaiji_tri_down_red>: Бездонна смола (Якщо ви ввійдете, поступово потонете.)\n<icon name=gaiji_circle_blue>: Шлях/Дорога\n<icon name=gaiji_hotsprings>: Гарячий джерело",
+        "target": "<icon name=gaiji_arrow_down_green>: Висока трава (Тут ви можете приховатися від ворогів.)\n<icon name=gaiji_tri_down_red>: Бездонний дьоготь (Якщо ви ввійдете, поступово потонете.)\n<icon name=gaiji_circle_blue>: Шлях/Дорога\n<icon name=gaiji_hotsprings>: Гаряче джерело",
         "show": "always"
       },
       "e254ef94-9f75-3248-abc3-39f002f3da27": {
@@ -120690,22 +120690,22 @@
       },
       "e8b16395-7b64-8044-a717-4811c7b631ae": {
         "source": "MULEs will dispose of any items they can't use in the dump sites located near their camps.",
-        "target": "MULEs викинуть будь-які предмети, які вони не можуть використовувати, на смітники, що знаходяться біля їхніх таборів.",
+        "target": "Мули викинуть будь-які предмети, які вони не можуть використовувати, на смітники, що знаходяться біля їхніх таборів.",
         "show": "always"
       },
       "fbb28595-7baa-f648-900b-53e0b331341a": {
         "source": "Equipping Strands",
-        "target": "Озброєння странди",
+        "target": "Оснащення мотузки",
         "show": "always"
       },
       "3bdce495-a543-e74e-9986-59606d5d36b9": {
         "source": "You can see how many materials are available at a given facility by moving the cursor over the corresponding icon on the map. Note that these materials need not be used only to manufacture \nweapons and equipment—they can also be claimed in order to upgrade structures elsewhere.",
-        "target": "Ви можете побачити, скільки матеріалів доступно в певній установці, навівши курсор на відповідний значок на карті. Зверніть увагу, що ці матеріали можуть бути використані не лише для виготовлення зброї та обладнання—їх також можна використовувати для покращення інших структур.",
+        "target": "Ви можете побачити, скільки матеріалів доступно в певному об'єкті, навівши курсор на відповідний значок на карті. Зверніть увагу, що ці матеріали можуть бути використані не лише для виготовлення \nзброї та обладнання—їх також можна використовувати для покращення інших структур.",
         "show": "always"
       },
       "ff98a896-03de-c641-b8e2-8fefcf6f8c49": {
         "source": "All facilities offer general-purpose materials which can be freely claimed. The amount available to claim will vary depending on the facility, and will increase while you are completing orders. You can check available materials via the cuff links or a delivery terminal.",
-        "target": "Усі установки пропонують універсальні матеріали, які можуть бути вільно взяті. Кількість доступних для вибору матеріалів буде залежати від установки і збільшуватиметься під час виконання замовлень. Ви можете перевірити доступні матеріали за допомогою рукавичок або доставочного терміналу.",
+        "target": "Усі об'екти пропонують універсальні матеріали, які можуть бути вільно взяті. Кількість доступних для вибору матеріалів буде залежати від об'єкта і збільшуватиметься під час виконання замовлень. Ви можете перевірити доступні матеріали за допомогою запонок або доставкового терміналу.",
         "show": "always"
       },
       "f254f596-49be-214a-a4ba-bfa210a8bb04": {
@@ -120730,7 +120730,7 @@
       },
       "57056898-f9ed-8841-94fe-082c92c3e51c": {
         "source": "BB can be soothed when crying to reduce stress levels. Gently rocking BB's pod using <ds-ficon name=actb_CareBB> will increase the effect.\n\n<color name=yellow>If the motion sensor function is turned on, you can also soothe BB by gently rocking your controller back and forth.</color>",
-        "target": "Личинку людини можна заспокоїти, коли вона плаче, щоб зменшити рівень стресу. Легке коцання піддону личинки людини за допомогою <ds-ficon name=actb_CareBB> підвищить ефект.\n\n<color name=yellow>Якщо функція рухового сенсора ввімкнена, ви також можете заспокоїти личинку людини легким коцанням вашого контролера вперед і назад.</color>",
+        "target": "Личинку людини можна заспокоїти, коли вона плаче, щоб зменшити рівень стресу. Легке погойдуванням капсули личинки людини за допомогою <ds-ficon name=actb_CareBB> підвищить ефект.\n\n<color name=yellow>Якщо функція рухового сенсора ввімкнена, ви також можете заспокоїти личинку людини легким погойдуванням вашого контролера вперед і назад.</color>",
         "show": "always"
       },
       "91db6c98-d5a7-194b-9beb-da3f4a7dbf47": {
@@ -120740,22 +120740,22 @@
       },
       "9d629c98-9081-5c41-acc5-a7ae2954b9ed": {
         "source": "Standard ammo can be effective against BTs if it is fired through a blood smoke screen created by a hematic grenade. This can cause more damage to a BT than hitting them with a hematic round.",
-        "target": "Стандартна боєприпаси можуть бути ефективними проти BT, якщо вони випущені через дим крові, створений гематичною гранатою. Це може завдати більше шкоди BT, ніж влучання гематичним кулею.",
+        "target": "Стандартні боєприпаси можуть бути ефективними проти BT, якщо вони випущені через дим крові, створений гематичною гранатою. Це може завдати більше шкоди BT, ніж влучання гематичною кулею.",
         "show": "always"
       },
       "f531a698-c340-634c-9e01-bb82406eb66d": {
         "source": "Safe House (Lv. 2)",
-        "target": "База відпочинку (рівень 2)",
+        "target": "Безпечний будинок (рівень 2)",
         "show": "always"
       },
       "8fbed898-a68a-2d43-a5ff-fc2802e8f4a7": {
         "source": "Floating Carrier Wires",
-        "target": "Плаваючі троси для носилок",
+        "target": "Троси левітуючих носилок",
         "show": "always"
       },
       "358c6499-98f1-7547-85ae-d3fa30659743": {
         "source": "When you have a BB connected, stop moving and look carefully to render a BT more visible.\n\n<color name=yellow>Please note that this is not possible if BB is suffering from autotoxemia.</color>",
-        "target": "Коли у вас є підключений BB, зупиніться і уважно подивіться, щоб зробити BT більш видимими.\n\n<color name=yellow>Зверніть увагу, що це неможливо, якщо BB страждає від автотоксемії.</color>",
+        "target": "Коли у вас є підключена личинка людини, зупиніться і уважно подивіться, щоб зробити BT більш видимими.\n\n<color name=yellow>Зверніть увагу, що це неможливо, якщо лючинка людини страждає від автотоксемії.</color>",
         "show": "always"
       },
       "c2e4b899-30d7-b04f-85f4-7459639dbd14": {
@@ -120765,7 +120765,7 @@
       },
       "8fb1339a-e6fa-eb4a-97cb-38fc63fafc56": {
         "source": "Riding over wet ground or through water will increase your bike's battery consumption.",
-        "target": "Рухання по вологому ґрунті або через воду збільшить споживання батареї вашого мотоцикла.",
+        "target": "Рух по вологому ґрунті або через воду збільшить споживання батареї вашого мотоцикла.",
         "show": "always"
       },
       "14f0559a-5fd1-3f47-8541-f17540108458": {
@@ -120785,17 +120785,17 @@
       },
       "c084b19a-a8be-0b4c-a558-6c073a1f59c5": {
         "source": "Accessing the Cargo Management Screen from the cuff links will allow you to optimize your load by pressing <ds-ficon name=mnum_INBOX>. This will place as much cargo on your back as possible, and arrange it as efficiently as possible.",
-        "target": "Доступ до екрану управління вантажем з допомогою манжетних посилань дозволить вам оптимізувати ваше навантаження, натиснувши <ds-ficon name=mnum_INBOX>. Це дозволить розмістити на вашій спині якомога більше вантажу та якомога ефективніше його впорядкувати.",
+        "target": "Доступ до екрану управління вантажем з допомогою запонок дозволить вам оптимізувати ваше навантаження, натиснувши <ds-ficon name=mnum_INBOX>. Це дозволить розмістити на вашій спині якомога більше вантажу та якомога ефективніше його впорядкувати.",
         "show": "always"
       },
       "852b499b-8b18-a84f-8687-a6f6f15c76e7": {
         "source": "Cargo for chilled deliveries will gradually deteriorate in warm conditions. Keeping your cargo in shaded, unheated structures and exposing it to rain and snow can help prevent it from deteriorating.",
-        "target": "Вантаж для холодних доставок поступово погіршуватиметься в теплих умовах. Зберігайте ваш вантаж в затінених, не обігріваних спорудах та викладайте його до дощу та снігу, це допоможе запобігти його погіршенню.",
+        "target": "Вантаж для холодних доставок поступово погіршуватиметься в теплих умовах. Зберігайте ваш вантаж в затінених, не обігріваних структурах та піддавайте його дощу та снігу, це допоможе запобігти його погіршенню.",
         "show": "always"
       },
       "629e679b-2223-2e4e-b800-90cdc546cb75": {
         "source": "Various structures can be built using the PCC. \nEquip the PCC to cycle through the available structures and select the one you want to build.",
-        "target": "Різноманітні споруди можна побудувати, використовуючи PCC. \nЗберіть PCC, щоб прокрутити доступні споруди та вибрати ту, яку ви хочете побудувати.",
+        "target": "Різноманітні споруди можна побудувати, використовуючи PCC. \nЕкіпіруйте PCC, щоб прокрутити доступні споруди та вибрати ту, яку ви хочете побудувати.",
         "show": "always"
       },
       "5b06119c-3cbc-3140-9135-d53e9c9f097e": {
@@ -120805,12 +120805,12 @@
       },
       "abe9ef9c-d1ed-6447-a694-c5c83510dfe9": {
         "source": "Use <ds-ficon name=cnsc_MainMenu[H]> and select \"Structure Menu\" to see a list of functions available at the various structure levels.",
-        "target": "Використовуйте <ds-ficon name=cnsc_MainMenu[H]> та виберіть \"Меню Структур\", щоб побачити список функцій, доступних на різних рівнях структур.",
+        "target": "Використовуйте <ds-ficon name=cnsc_MainMenu[H]> та виберіть \"Меню Структури\", щоб побачити список функцій, доступних на різних рівнях структур.",
         "show": "always"
       },
       "7b57359d-5d70-cf41-919f-e198c68d6c8a": {
         "source": "Scanning for Chiral Crystals",
-        "target": "Сканування для Хіральних Кристалів",
+        "target": "Сканування на Хіральні Кристали",
         "show": "always"
       },
       "3263479d-9f6e-8448-8541-26eac3e37b81": {
@@ -120825,12 +120825,12 @@
       },
       "2b67899d-7045-f247-b318-078e1b0645f8": {
         "source": "You can prioritize firing over keeping balance by opening the cuff links and selecting\n\"Options\" → \"Controls\" → \"\"Keep Balance\" Control Sensitivity.\"",
-        "target": "Ви можете віддати перевагу стрільбі над утриманням рівноваги, відкривши манжети та вибравши\n«Опції» → «Керування» → «Чутливість утримання рівноваги».",
+        "target": "Ви можете віддати перевагу стрільбі над утриманням рівноваги, відкривши запонки та вибравши\n\"Опції\" → \"Керування\" → \"Чутливість утримання рівноваги\".",
         "show": "always"
       },
       "d24cbb9d-6464-f844-b462-68bd877b02c4": {
         "source": "You can alter the warning produced by the Odradek when encountering BTs by opening the cuff links and selecting \"System\" → \"Options\" → \"Game Settings\" → \"BT Encounter Warning\".\nIf set to \"First Time Only\", the extended warning will only appear for your first encounter with a BT.",
-        "target": "Ви можете змінити сповіщення, що видає Одрадек при зустрічі з BT, відкривши манжети та вибравши «Система» → «Опції» → «Налаштування гри» → «Попередження про зустріч з BT».\nЯкщо встановлено «Лише перший раз», додаткове попередження з'явиться лише при вашій першій зустрічі з BT.",
+        "target": "Ви можете змінити попередження, що видає Одрадек при зустрічі з BT, відкривши запонки та вибравши \"Система\" → \"Опції\" → \"Налаштування гри\" → «\"Попередження про зустріч з BT\".\nЯкщо встановлено \"Лише вперше\", розширене попередження з'явиться лише при вашій першій зустрічі з BT.",
         "show": "always"
       },
       "1374f29d-6f1d-344c-97d9-5b7a0235f542": {
@@ -120845,7 +120845,7 @@
       },
       "e51e1e9e-fc51-2646-87a7-4b7eb444e3a9": {
         "source": "You cannot use zip-lines if you are overloaded.",
-        "target": "Ви не можете використовувати тросопроводи, якщо ви перевантажені.",
+        "target": "Ви не можете використовувати зіп-лайни, якщо ви перевантажені.",
         "show": "always"
       },
       "6935259e-170a-5f42-968f-ccb939a8c19a": {
@@ -120860,12 +120860,12 @@
       },
       "0c758d9e-00e6-3f45-82b5-1b7f00b9eb18": {
         "source": "Floating carriers can be used to transport cargo, or as a means of personal transportation. They are kept afloat by chiral crystals, and can glide smoothly over rough terrain.\n<color name=yellow>Floating carriers will stop floating when their supply of chiral crystals has been depleted.</color> Two carriers can be joined together.",
-        "target": "Плаваючі транскур'єри можуть бути використані для перевезення вантажу або як засіб особистого транспортування. Вони утримуються на поверхні завдяки хіральним кристалам і можуть плавно ковзати по нерівному майданчику.\n<color name=yellow>Плаваючі транскур'єри припинять плавати, коли їх запас хіральних кристалів буде вичерпано.</color> Два транскур'єри можуть бути з'єднані разом.",
+        "target": "Левітуючі носилки можуть бути використані для перевезення вантажу або як засіб особистого транспортування. Вони левітують над поверхнею завдяки хіральним кристалам і можуть плавно ковзати по бездоріжжю.\n<color name=yellow>Левітуючі носилки припинять левітувати, коли їх запас хіральних кристалів буде вичерпано.</color> Дві носилки можуть бути з'єднані разом.",
         "show": "always"
       },
       "dcf9b39e-6695-994e-91a8-213dee3f8849": {
         "source": "Special ammunition is available for battle against BTs. However, this ammunition will drain Sam's blood, so be careful. <color name=yellow>Note: This ammunition cannot be used if blood levels are low.</color>\n\nBlood-coated, or \"hematic,\" ammunition is just as lethal when used against humans. Hold <ds-ficon name=hudh_WeaponSlctr[H]> and press <ds-ficon name=hudh_SelectorItemSelect> to select, then use <ds-ficon name=hudc_ChangeAmmoType> to change ammunition type.",
-        "target": "Спеціальний боєприпас доступний для боротьби з BT. Проте цей боєприпас буде вибирати кров у Семена, тому будьте обережні. <color name=yellow>Примітка: Цей боєприпас не може бути використаний, якщо рівень крові низький.</color>\n\nКров'яно-покритий, або \"гематичний,\" боєприпас є так само смертоносним, коли використовується проти людей. Утримуйте <ds-ficon name=hudh_WeaponSlctr[H]> і натисніть <ds-ficon name=hudh_SelectorItemSelect>, щоб обрати, а потім використовуйте <ds-ficon name=hudc_ChangeAmmoType>, щоб змінити тип боєприпасу.",
+        "target": "Спеціальний боєприпас доступний для боротьби з BT. Проте цей боєприпас буде викачувати кров у Семена, тому будьте обережні. <color name=yellow>Примітка: Цей боєприпас не може бути використаний, якщо рівень крові низький.</color>\n\nПокритий кров'ю, або \"гематичний,\" боєприпас є так само летальним, коли використовується проти людей. Утримуйте <ds-ficon name=hudh_WeaponSlctr[H]> і натисніть <ds-ficon name=hudh_SelectorItemSelect>, щоб обрати, а потім використовуйте <ds-ficon name=hudc_ChangeAmmoType>, щоб змінити тип боєприпасу.",
         "show": "always"
       },
       "2989b99e-46cf-dc4a-a09a-8c3b9dedf9f6": {
@@ -120875,12 +120875,12 @@
       },
       "f048e59e-2be3-5544-ae7c-5a3bf9eaf7a6": {
         "source": "Repairing Vehicles",
-        "target": "Ремонт авто",
+        "target": "Ремонт транспортних засобів",
         "show": "always"
       },
       "e800049f-9cd9-174f-81c1-05aa0057cf7c": {
         "source": "When near a BT: <ds-ficon name=acta_Action> to Cut Umbilical Cord",
-        "target": "Поблизу BT: <ds-ficon name=acta_Action> для відрізання пуповини",
+        "target": "Коли поблизу BT: <ds-ficon name=acta_Action> для перерізання пуповини",
         "show": "always"
       },
       "cc6e229f-d7db-414d-9b97-69349d086cae": {
@@ -120895,22 +120895,22 @@
       },
       "b725ac9f-6066-d343-b955-a5e04fe8f014": {
         "source": "The bola gun fires wires which bind their target. There are various wire types, which can be effective against both humans and BTs. Ensure that only your target is in your sights before firing.",
-        "target": "Арканомет стріляє дротами, які обмежують їх ціль. Є різноманітні типи дротів, які можуть бути ефективними проти як людей, так і BT. Переконайтеся, що тільки ваша ціль знаходиться в полі зору перед пострілом.",
+        "target": "Бола ґан стріляє дротами, які зв'язують їхню ціль. Є різноманітні види дротів, які можуть бути ефективними як проти людей, так і BT. Переконайтеся, що тільки ваша ціль знаходиться в полі зору перед пострілом.",
         "show": "always"
       },
       "e88ac99f-7090-6244-9a34-f2a878dd8821": {
         "source": "Corpses cause voidouts and turn into BTs if they aren't disposed of properly. As such, any corpses you find must be taken to an incinerator ASAP. The closest incinerator is to the west of Lake Knot City. Use the map on your cuff links to check its location.",
-        "target": "Трупи викликають розриви простору й перетворюються на личинок, якщо їх не видаляти належним чином. Тому всі знайдені трупи потрібно негайно доставити до спалювальної установки. Найближча знаходиться на заході від Озера Вузлового Міста. Використовуйте карту на вашому комплексі-браслеті, щоб перевірити його розташування.",
+        "target": "Трупи викликають войдаути й перетворюються на BT, якщо їх не утилізувати належним чином. Тому всі знайдені трупи потрібно негайно доставити до крематорію. Найближчий знаходиться на захід від Озерного Вузлового Міста. Використовуйте карту на ваших запонках, щоб перевірити його розташування.",
         "show": "always"
       },
       "399ede9f-0b04-234a-b4b3-3c4877ebc93c": {
         "source": "Effects of Timefall on Items Not Carried in Containers",
-        "target": "Вплив Таймфолу на предмети, не перевезені в контейнерах",
+        "target": "Вплив Часопаду на Предмети, що не перевозяться в контейнерах",
         "show": "always"
       },
       "4a9700a0-bd9a-074d-b4ba-838fbd984732": {
         "source": "Shotguns fire multiple projectiles that spread as they travel, meaning they are more effective at close proximity. Bear this in mind when dealing with enemies equipped with shotguns, and keep your distance.",
-        "target": "Дробовики вистрілюють кількома снарядами, які розлітаються під час польоту, тому вони ефективніше працюють на близькій відстані. Пам'ятайте про це, коли матимете справу з ворогами, які мають дробовики, і тримайте відстань.",
+        "target": "Дробовики вистрілюють кілька снарядів, які розлітаються під час польоту, тому вони ефективніше працюють на близькій відстані. Пам'ятайте про це, коли матимете справу з ворогами, які мають дробовики, і тримайтеся на відстані.",
         "show": "always"
       },
       "2a2608a0-111f-7244-bc62-d53f42853cb1": {
@@ -120920,17 +120920,17 @@
       },
       "3bde11a0-7197-134d-a012-9528b8a1b0f8": {
         "source": "Fragile Jumps Cannot Currently Be Performed",
-        "target": "Звукові Переходи від Фреджайл в даний час недоступні",
+        "target": "Стрибки з Фреджайл наразі неможливо виконати",
         "show": "always"
       },
       "ef4224a0-1ad7-5840-bf1f-929954641caa": {
         "source": "Controls: Floating Carriers",
-        "target": "Керування: Плавучі носилки",
+        "target": "Керування: Левітуючі носилки",
         "show": "always"
       },
       "4dbf4da0-3a8f-9741-84e5-cdbbddd83e90": {
         "source": "Fragile Jumps Cannot Currently Be Performed",
-        "target": "Звукові Переходи від Фреджайл в даний час недоступні",
+        "target": "Стрибки з Фреджайл наразі неможливо виконати",
         "show": "always"
       },
       "d0116ca0-983f-bf41-8a2c-d181ce38790c": {
@@ -120940,7 +120940,7 @@
       },
       "c30a8da0-35ca-4a4b-9585-44b9860d40c4": {
         "source": "Chiral density levels are unstable. Fragile jumps cannot be performed.",
-        "target": "Рівні хіральної щільності нестабільні. Вразливі стрибки не можуть бути виконані.",
+        "target": "Рівень хіральної щільності нестабільний. Стрибки з Фреджайл не можуть бути виконані.",
         "show": "always"
       },
       "4786e0a0-598e-8642-856e-0dd04366183c": {
@@ -120950,22 +120950,22 @@
       },
       "10b2a7a1-0b7d-184e-b7c9-faa8b96ea5c4": {
         "source": "If you lose your balance on rough terrain such as steep slopes, center yourself to avoid falling over and damaging your cargo.\n",
-        "target": "Якщо ви втрачаєте рівновагу на нерівній місцевості, такій як круті схили, сконцентруйтеся, щоб уникнути падіння та пошкодження вашого вантажу.\n",
+        "target": "Якщо ви втрачаєте рівновагу на бездоріжжі, такому як круті схили, сконцентруйтеся, щоб уникнути падіння та пошкодження вашого вантажу.\n",
         "show": "always"
       },
       "d106d0a1-6399-da43-8ae7-ceb0b081ed8e": {
         "source": "Zip-lines enable the distance between two anchors to be covered quickly and safely.\n\nHold <ds-ficon name=cnsc_MainMenu[H]> and select \"Structure Menu\" to see a list of functions available at various structure levels.",
-        "target": "Лінії-зіпи дозволяють швидко і безпечно пройти відстань між двома якорями.\n\nНатисніть <ds-ficon name=cnsc_MainMenu[H]> та виберіть \"Меню Структури\", щоб побачити список функцій, доступних на різних рівнях структури.",
+        "target": "Зіп-лайни дозволяють швидко і безпечно пройти відстань між двома якорями.\n\nУтримуйте <ds-ficon name=cnsc_MainMenu[H]> та виберіть \"Меню Структури\", щоб побачити список функцій, доступних на різних рівнях структури.",
         "show": "always"
       },
       "9cfc5ca2-37eb-9348-b05f-9add41a4da23": {
         "source": "Smoke-emitting decoy cargo can be placed or thrown to misdirect MULEs or hinder their pursuit. When destroyed, it will immediately release a large cloud of smoke.",
-        "target": "Декоративний вантаж з димовими сигналами може бути розміщений або киданий, щоб ввести в оману Мюлів або ускладнити їх переслідування. При знищенні він негайно вивільнить великий хмару диму.",
+        "target": "Димовий вантаж-приманка може бути розміщений або кинутий, щоб ввести в оману Мулів або ускладнити їх переслідування. При знищенні він негайно вивільнить велику хмару диму.",
         "show": "always"
       },
       "1234b2a2-75fc-5e4d-a765-ff5a5ca9dde6": {
         "source": "Auto-Paver",
-        "target": "Авто-кладовище",
+        "target": "Авто-Асфальтоукладач",
         "show": "always"
       },
       "2a5bbca2-83af-ec46-aa60-316dc9edbb9b": {
@@ -120975,32 +120975,32 @@
       },
       "d97a48a3-fcdc-564e-9ad4-83f3abbed95d": {
         "source": "Delivering Materials to Increase Facility Stores",
-        "target": "Доставка матеріалів для збільшення запасів установи",
+        "target": "Доставка матеріалів для збільшення запасів об'єкту",
         "show": "always"
       },
       "3e4276a3-b912-3348-8cca-96f668c0ad1d": {
         "source": "Private Rooms - Emergency Situations",
-        "target": "Приватні кімнати - надзвичайні ситуації",
+        "target": "Приватні кімнати - Надзвичайні ситуації",
         "show": "always"
       },
       "6fe07ba3-c184-3643-a1c5-69d65ce2c9f0": {
         "source": "Fragile Jumps Cannot Currently Be Performed",
-        "target": "Вразливі стрибки наразі неможливо виконати",
+        "target": "Стрибки з Фреджайл наразі неможливо виконати",
         "show": "always"
       },
       "00a9aba3-880d-5f4e-a651-edee548f799c": {
         "source": "Rough Terrain",
-        "target": "Важка місцевість",
+        "target": "Бездоріжжя",
         "show": "always"
       },
       "55feada3-9848-914f-aa33-82c207eb6448": {
         "source": "Select \"Orders\" from the Cuff Links, open the Order Confirmation Screen, and select \"Order Details\" to see that order's to-do list.",
-        "target": "Оберіть \"Замовлення\" зі з'єднання манжет, відкрийте екран підтвердження замовлення і оберіть \"Подробиці замовлення\", щоб побачити список справ на цьому замовленні.",
+        "target": "Оберіть \"Замовлення\" із Запонок, відкрийте Екран підтвердження замовлення і оберіть \"Подробиці замовлення\", щоб побачити список справ на цьому замовленні.",
         "show": "always"
       },
       "9d6ddea3-b6ab-0741-85bd-83df8afb703d": {
         "source": "If the angle of a ladder is too steep, floating carriers will be unable to climb it. In such cases, the carrier will detach itself from your waist automatically.",
-        "target": "Якщо кут сходів занадто крутий, плаваючі носилки не зможуть її підняти. В таких випадках носій автоматично відсікається від вашого талісману.",
+        "target": "Якщо кут драбини занадто крутий, левітуючі носилки не зможуть піднятися на неї. В таких випадках носилка автоматично від'єднається від вашої талії.",
         "show": "always"
       },
       "efc728a4-da70-564a-a6f1-33183ddd9be0": {
@@ -121010,7 +121010,7 @@
       },
       "864b7aa4-364b-cc4b-a181-dc01a5163c3f": {
         "source": "This is where the vehicles available at a given facility can be viewed. These will include both your own vehicles and those shared by others online. Move a vehicle to the elevator to use it.",
-        "target": "Тут можна переглянути транспортні засоби, доступні на певній площадці. Сюди входитимуть як ваші власні транспортні засоби, так і ті, якими користуються інші в мережі. Перемістіть транспортний засіб на ліфт, щоб користуватися ним.",
+        "target": "Тут можна переглянути транспортні засоби, доступні на даному об'єкті. Сюди входитимуть як ваші власні транспортні засоби, так і ті, якими користуються інші в мережі. Перемістіть транспортний засіб на ліфт, щоб користуватися ним.",
         "show": "always"
       },
       "7452a8a4-77b8-e549-83a5-e7b0c3c67587": {
@@ -121085,7 +121085,7 @@
       },
       "684c70a7-e410-f34c-a5e8-b89003a39fdf": {
         "source": "The <color name=cyan>Endurance Gauge</color> appears above the <color name=blue>Stamina Gauge</color> when performing actions that wear on Sam's body. When the gauge fully depletes, Sam can no longer bear his load. Be sure to take a break before this happens.",
-        "target": "<color name=cyan>Шкала витривалості</color> з'являється над <color name=blue>Шкалою витривалості</color> при виконанні дій, які стомлюють тіло Семена. Коли шкала повністю вичерпується, Семен більше не зможе переносити навантаження. Будьте обережні і робіть перерву перед цим.",
+        "target": "<color name=cyan>Шкала витримки</color> з'являється над <color name=blue>Шкалою витривалості</color> при виконанні дій, які стомлюють тіло Семена. Коли шкала повністю вичерпується, Семен більше не зможе переносити вантаж. Будьте обережні і робіть перерву перед цим.",
         "show": "always"
       },
       "558775a7-5170-1d4d-a995-742be7b5a089": {
@@ -121465,7 +121465,7 @@
       },
       "d053e5bd-184b-0946-9ce5-48af58866742": {
         "source": "You will sometimes find cargo from abandoned deliveries dotted about the landscape. Delivering this cargo to its intended destination in good condition will make you very popular indeed.",
-        "target": "Іноді ви знаходитимете вантаж зі забруднених доставок на ландшафті. Доставляючи цей вантаж до його призначеного місця в хорошому стані, ви здобудете велику популярність.",
+        "target": "Іноді ви знаходитимете вантаж з покинутих доставок розкиданим на ландшафті. Доставляючи цей вантаж до його призначеного місця в хорошому стані, ви здобудете велику популярність.",
         "show": "always"
       },
       "72dd05be-3457-974a-968d-52d579ab72ca": {
@@ -121525,7 +121525,7 @@
       },
       "dcdeb2c0-f266-2b43-aef7-087aadf246b4": {
         "source": "The red bar is the <color name=red>Blood Gauge</color>. \nWhen it reaches 0, Sam will die. \nThe blue bar is the <color name=blue>Stamina Gauge</color>. \nAs this gauge depletes, Sam moves more slowly, and maintaining his balance is harder.",
-        "target": "Червона смуга - це <color name=red>Вимір Крові</color>. \nКоли вона досягне 0, Семен помере. \nСиня смуга - це <color name=blue>Вимір Витривалості</color>. \nПри вичерпанні цього виміру, Семен рухається повільніше, і утримання рівноваги ускладнюється.",
+        "target": "Червона смуга - це <color name=red>Вимір Крові</color>. \nКоли вона досягне 0, Семен помре. \nСиня смуга - це <color name=blue>Вимір Витривалості</color>. \nПри вичерпанні цього виміру, Семен рухається повільніше, і утримання рівноваги ускладнюється.",
         "show": "always"
       },
       "1f18bdc0-a6a7-e34d-9833-80979d5c9fb6": {
