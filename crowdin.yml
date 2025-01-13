@@ -1,0 +1,3 @@
+files:
+  - source: '*.json'
+    translation: /localization_crowdin_%locale%.json

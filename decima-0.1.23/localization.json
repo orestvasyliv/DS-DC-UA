@@ -10,7 +10,7 @@
       },
       "16c95a00-469a-7742-9800-b659df6dcb1d": {
         "source": "Return to Capital Knot City so you can pick up relief supplies for Port Knot.",
-        "target": "Повернися до Столичного Вузловго Міста, щоб забрати гуманітарну допомогу для Портового Вузла.",
+        "target": "Поверніться до Столичного Вузлового Міста, щоб забрати гуманітарну допомогу для Портового Вузла.",
         "show": "always"
       },
       "99132683-facf-004a-bd61-f5d17b08a2f2": {
@@ -6098,7 +6098,7 @@
       },
       "6059b4cc-0e87-804b-95af-3a84c89bed3f": {
         "source": "Porter out on a run's been injured and can't make it back on their own.",
-        "target": "кур'єр, який відправився в місію, постраждав і не може самостійно повернутися.",
+        "target": "Кур'єр, який відправився в місію, постраждав і не може самостійно повернутися.",
         "show": "always"
       },
       "730cf99b-4eba-e54e-a7f6-1d558ba337ea": {
@@ -6138,7 +6138,7 @@
       },
       "a4846639-17b0-4744-85c9-d039abac5655": {
         "source": "Head to the distro center south of Lake Knot City and pick it up when you can.",
-        "target": "Направляйтеся до центру дистрибуції південніше міста Озерне Вузло та заберіть його, якщо зможете.",
+        "target": "Направляйтеся до центру дистрибуції на південь від Озерного Вузлового Міста та заберіть його, коли зможете.",
         "show": "always"
       },
       "e0f296c0-6c13-ec49-94da-09cd78180e01": {
@@ -6163,7 +6163,7 @@
       },
       "b35ebff4-2d9d-b84d-87dc-a70641b6769f": {
         "source": "Be advised that a safety feature prevents usage during timefall.",
-        "target": "Звертаємо увагу, що функцію використання часом душу обмежує безпека.",
+        "target": "Звертаємо увагу, що безпекова функція обмежує використання під час.",
         "show": "always"
       },
       "91ad95db-7c51-2b47-8100-296c73e91694": {
@@ -125103,7 +125103,7 @@
       },
       "5cd48ec9-6f0d-7348-a3f1-aca0d96dc099": {
         "source": "Golden Shells",
-        "target": "Золоті черепашки",
+        "target": "Золоті гільзи",
         "show": "always"
       },
       "c2780ccd-99bc-cd4c-a1b6-9b1d469680a5": {
@@ -125123,7 +125123,7 @@
       },
       "17b5acce-4717-ed42-ae9c-3261295abf67": {
         "source": "An improved electromagnetic stun bomb that \ndetonates remotely, rendering human targets \nunconscious and immobilizing vehicles.\n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Throw.\nThe harder you press <ds-ficon name=acta_Fire>, the further the grenade will travel. (If you are using a keyboard, the longer you hold <ds-ficon name=acta_Fire device=KBD> for, the further the grenade will travel.)\nNon-Lethal Anti-personnel Weapon",
-        "target": "Покращена електромагнітна свинцева бомба, яка вибухає віддалено, приглушаючи людські цілі і паралізуючи транспортні засоби.\n<ds-ficon name=acta_ADS[A]>: Наведення + <ds-ficon name=acta_Fire>: Кидок.\nЧим сильніше натискати <ds-ficon name=acta_Fire>, тим далі пролетить граната. (Якщо ви використовуєте клавіатуру, то чим довше тримати <ds-ficon name=acta_Fire device=KBD>, тим далі пролетить граната.)\nНесмертельна антитанкова зброя",
+        "target": "Покращена електромагнітна світлошумова бомба, яка \nвибухає віддалено, приглушаючи людські цілі \nі паралізуючи транспортні засоби.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Кидок.\nЧим сильніше ви натискаєте <ds-ficon name=acta_Fire>, тим далі пролетить граната. (Якщо ви використовуєте клавіатуру, то чим довше тримаєте <ds-ficon name=acta_Fire device=KBD>, тим далі пролетить граната.)\nНелетальна протипіхотна зброя",
         "show": "always"
       },
       "6ae45acf-2228-584a-aea1-6ce1268cbebc": {
@@ -125133,17 +125133,17 @@
       },
       "01b5d0d2-e0a1-6d4d-8d5e-92a4bc57ff55": {
         "source": "A customized version of the Shotgun, \nloaded with <color name=orange>standard shells</color> \nthat are lethal to humans, but will have no effect on BTs.",
-        "target": "Спеціалізована версія рушниці, завантажена <color name=orange>стандартними набоями</color>, які є смертельними для людини, але не мають впливу на BT.",
+        "target": "Кастомізований версія Дробовика, \nзавантажена <color name=orange>стандартними набоями</color>, \nякі є летальними для людини, але не мають впливу на BT.",
         "show": "always"
       },
       "17caa0d3-efbd-be40-9b83-f0025f196787": {
         "source": "A customized light and durable \nchiralium-coated climbing anchor.\nIt is driven into the ground, creating \nan anchor point for a 30-meter rope \nthat allows for ascending/descending \nof steep slopes and cliffs.\n\n<ds-ficon name=acta_ADS[A]>: Adjust Position + <ds-ficon name=acta_Fire>: Place Anchor",
-        "target": "Спеціалізований легкий та міцний хірально покритий сходок для альпінізму.\nВін заприв'язується в землю, створюючи опорний пункт для 30-метрового каната, який дозволяє підніматися / спускатися по стрімких схилах та скелях.\n\n<ds-ficon name=acta_ADS[A]>: Налаштування позиції + <ds-ficon name=acta_Fire>: Розміщення якоря",
+        "target": "Кастомізований легкий та міцний \nпокритий цхіралієм якір для скелелазіння.\nВін забивається в землю, створюючи \nопорну точку для 30-метрового каната, \nякий дозволяє підніматися/спускатися \nпо стрімких схилах та скелях.\n\n<ds-ficon name=acta_ADS[A]>: Налаштування позиції + <ds-ficon name=acta_Fire>: Розміщення якоря",
         "show": "always"
       },
       "9bc3b5d3-5dcd-054d-b3a4-d8c8ca1b45d5": {
         "source": "A customized version of the Riot Shotgun,\nloaded with chiralium-coated golden rubber \nshells that are more effective against BTs.\nThey will consume stored chiral crystals when fired. ",
-        "target": "Спеціальна версія Рейтового дробовика, завантажена зарядами, покритими хіралієм-покритим золотистим каучуком, які ефективніше проти BT. Вони витрачатимуть збережені хіральні кристали при пострілі.",
+        "target": "кастомізована версія Дробовика Ріот,\nзавантажена гумовими кулями, покритими хіралієм, \nякі ефективніші проти BT. \nВони витрачатимуть збережені хіральні кристали при пострілі.",
         "show": "always"
       },
       "bec06ed4-824e-ac47-bce9-db62fbd867c4": {
@@ -125153,12 +125153,12 @@
       },
       "850eedd4-bb2c-8b44-9ce3-aea8357514d2": {
         "source": "A semi-automatic shotgun developed by WM. Its folding frame \nconstruction is simple, easy to maintain, and difficult to break.\nIt also features a number of mounting points, allowing for a high \ndegree of augmentability. This is a non-lethal model, \nconverted from a training unit.",
-        "target": "Півавтоматичний дробовик, розроблений WM. Його складна конструкція складається з простого складання, легкої обслуговування та важкого зламу. Він також має кілька точок кріплення, що дозволяє високу ступінь модернізації. Це нелетальна модель, перетворена з тренувальної одиниці.",
+        "target": "Напівавтоматичний дробовик, розроблений WM. Його складана \nконструкція - проста, легка в обслуговуванні та важка для зламу.\nВін також має кілька точок кріплення, що забезпечують високу \nступінь модернізації. Це нелетальна модель, \nперетворена з тренувальної одиниці.",
         "show": "always"
       },
       "7ca652d6-d70c-bc45-ac63-467f282cc8c3": {
         "source": "An improved version of the Lethal Assault Rifle (Lv. 1), \nloaded with <color name=orange>standard rounds</color> \nthat are lethal to humans, but will have no effect on BTs.",
-        "target": "Вдосконалена версія Летальної Автоматичної Гвинтівки (рівень 1), завантажена <color name=orange>стандартними кулями</color>, які летальні для людей, але не матимуть впливу на BT.",
+        "target": "Вдосконалена версія Летальної штурмової гвинтівки (рівень 1), \nзавантажена <color name=orange>стандартними кулями</color>, \nякі летальні для людей, але не матимуть впливу на BT.",
         "show": "always"
       },
       "52dab5d6-740f-df45-baa1-19e846edfc44": {
@@ -125168,7 +125168,7 @@
       },
       "79a155d7-fc6d-ba4d-8014-a49114c6ebde": {
         "source": "A .357 Magnum revolver that has some \nconnection to Die-Hardman. It is loaded with \n<color name=red>hematic rounds</color> coated in Sam's blood.\nSeemed to have no effect on Bridget at the Beach.\n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Fire\n<color name=orange>Lethal Anti-personnel Weapon</color>",
-        "target": ".357 Magnum револьвер, який має певне зв'язок з Даярдменом. Він завантажений <color name=red>гематичними кулями</color>, покритими кров'ю Семена. Здається, не мав жодного впливу на Бріджет на пляжі. <ds-ficon name=acta_ADS[A]>: Намір + <ds-ficon name=acta_Fire>: Постріл <color name=orange>Летальна Протиособистість</color>",
+        "target": ".357 Magnum револьвер, який має певний \nзв'язок з Дай-Гардменом. Він завантажений \n<color name=red>гематичними кулями</color>, покритими кров'ю Семена.\nЗдається, не мав жодного впливу на Бріджет на Пляжі.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Постріл\n<color name=orange>Летальна протипіхотна збоя</color>",
         "show": "always"
       },
       "7ff53cd8-b1c0-684f-ae8c-407dcad1fbe6": {
@@ -125183,7 +125183,7 @@
       },
       "322987d9-898b-4a48-8cb5-0db1a826cab1": {
         "source": "An improved smoke grenade that explodes on impact, \nproducing a cloud of smoke that lasts longer and spreads wider. \n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Throw.\nThe harder you press <ds-ficon name=acta_Fire>, the further the grenade will travel. (If you are using a keyboard, the longer you hold <ds-ficon name=acta_Fire device=KBD> for, the further the grenade will travel.)\nNon-Lethal Anti-Personnel Weapon",
-        "target": "Покращена димова граната, яка вибухає при ударі, утворюючи хмару диму, яка тримається довше і розповсюджується ширше. <ds-ficon name=acta_ADS[A]>: Намір + <ds-ficon name=acta_Fire>: Кидати. Чим сильніше натискати <ds-ficon name=acta_Fire>, тим далі граната пролетить. (Якщо використовуєте клавіатуру, то чим довше тримати <ds-ficon name=acta_Fire device=KBD>, тим далі граната пролетить.) Несмертельна зброя проти людей",
+        "target": "Покращена димова граната, яка вибухає при ударі, \nутворюючи хмару диму, яка тримається довше і розповсюджується ширше. \n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Кидати.\nЧим сильніше ви натискаєте <ds-ficon name=acta_Fire>, тим далі граната пролетить. (Якщо використовуєте клавіатуру, то чим довше тримаєте <ds-ficon name=acta_Fire device=KBD>, тим далі граната пролетить.)\nНесмертельна зброя проти людей",
         "show": "always"
       },
       "3e4c44da-2b70-954b-b15a-3fde1a726124": {
@@ -125193,32 +125193,32 @@
       },
       "f563eedb-0ad5-5e43-8fb7-995fbdd282f3": {
         "source": "An upgraded version of the Non-Lethal Assault Rifle (Lv. 2), \nloaded with rubber rounds capable of knocking \ntargets unconscious. Ineffective against BTs.",
-        "target": "Покращена версія Несмертельної Автоматичної Гвинтівки (рів. 2), завантажена гумовими кулями, здатними вбити цілей без свідомості. Неефективна проти BTs.",
+        "target": "Покращена версія Нелетальної штурмової гвинівки (рів. 2), \nзавантажена гумовими кулями, здатними привести до втрати \nсвідомості ціллю. Неефективна проти BTs.",
         "show": "always"
       },
       "0a98ebdd-3fed-b443-ba87-9602f828fa63": {
         "source": "Rubber Hematic Shells",
-        "target": "Гумові Гематичні Снаряди",
+        "target": "Гумові гематичні гільзи",
         "show": "always"
       },
       "aa7541de-c6c8-4e45-bebb-d316f3825da7": {
         "source": "Slip Grenades",
-        "target": "Ковзанкові Гранати",
+        "target": "Ковзаючі Гранати",
         "show": "always"
       },
       "7b7174de-19ea-da48-b3bd-b2b1cf1c3a72": {
         "source": "A remote-detonation grenade launcher loaded \nwith <color name=orange>explosive grenades</color>,\nmaking it lethal to humans, but having no effect on BTs. \nGrenades adhere to target after launch and are detonated remotely. ",
-        "target": "Гранатомет із дистанційним підірванням, завантажений <color name=orange>вибуховими гранатами</color>, які забирають життя людинам, але не впливають на BTs. Гранати прилипають до цілі після стрільби та підіриваються дистанційно.",
+        "target": "Гранатомет із дистанційним підривом, завантажений \n<color name=orange>вибуховими гранатами</color>,\nякі летальні для людей, але не впливають на BT. \nГранати прилипають до цілі після стрільби та підіриваються дистанційно.",
         "show": "always"
       },
       "bc68b3de-bd94-a741-b536-70457bfe57d8": {
         "source": "Golden Rubber Rounds",
-        "target": "Золоті Гумові Снаряди",
+        "target": "Золоті Гумові Кулі",
         "show": "always"
       },
       "dca8cade-1c56-3149-8334-afd4f10089ff": {
         "source": "An anti-BT hematic weapon. The user's blood is transfused \nvia the cuff links, condensed into bullet-like rounds, and then \nfired using an electromagnetic guidance system. The length of \ntime for which blood is transfused into the rounds dictates their power.",
-        "target": "Засіб проти BT пригематичної зброї. Кров користувача переливається через манжети, конденсується у кульоподібні снаряди, а потім віддаляється за допомогою електромагнітної системи наведення. Тривалість переливання крові в снаряди визначає їхню потужність.",
+        "target": "Гематична зброя проти BT. Кров користувача переливається \nчерез запонки, конденсується у кульоподібні снаряди, а потім \nвистрілюється за допомогою електромагнітної системи наведення. Тривалість \nпереливання крові в снаряди визначає їхню потужність.",
         "show": "always"
       },
       "bb8ce4de-449b-3e4b-8972-8461076d83de": {
@@ -125233,47 +125233,47 @@
       },
       "d8f0dddf-b930-c848-ab8b-28862af6e7c4": {
         "source": "A more durable and compact version \nof the Climbing Anchor (Lv. 1). A pole that \nis driven into the ground, creating an \nanchor point for a 30-meter rope that allows \nfor ascending/descending of steep slopes and cliffs.\n\n<ds-ficon name=acta_ADS[A]>: Adjust Position + <ds-ficon name=acta_Fire>: Place Anchor\n",
-        "target": "Більш міцна та компактна версія Кліматичної Анкер (рів. 1). Стовп, який вглиблюється в землю, створюючи точку опори для 30-метрового каната, що дозволяє підніматися/спускатися по крутих схилах та скелях.\n\n<ds-ficon name=acta_ADS[A]>: Налаштувати позицію + <ds-ficon name=acta_Fire>: Поставити якір\n",
+        "target": "Більш міцна та компактна версія \nЯкоря для скелелазіння (рів. 1). Стовп, який \nвглиблюється в землю, створюючи \nточку опори для 30-метрового каната, що дозволяє \nпідніматися/спускатися по крутих схилах та скелях.\n\n<ds-ficon name=acta_ADS[A]>: Налаштувати позицію + <ds-ficon name=acta_Fire>: Поставити якір\n",
         "show": "always"
       },
       "e08122e0-26b0-4a42-a172-9da0bc01cfc6": {
         "source": "Shotgun",
-        "target": "Стрільба гвинтівкою",
+        "target": "Дробовик",
         "show": "always"
       },
       "019f72e0-766c-f14d-8e1a-c90b851ea2e7": {
         "source": "An improved version of the Assault Rifle (Lv. 2),\nloaded with  <color name=red>hematic rounds</color> that are effective against BTs.\nAlso equipped with an optical sight and suppressor.\n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Fire\nHold <ds-ficon name=acta_Fire> to engage automatic firing mode.\n<color name=orange>Lethal Anti-Personnel Weapon</color>",
-        "target": "Покращена версія Автоматичної Гвинтівки (рів. 2), завантажена <color name=red>гематичними набоями</color>, які ефективні проти BT.\nТакож обладнана оптичним прицілом та приглушувачем.\n<ds-ficon name=acta_ADS[A]>: Намір + <ds-ficon name=acta_Fire>: Вогонь\nТримайте <ds-ficon name=acta_Fire>, щоб увімкнути автоматичний режим стрільби.\n<color name=orange>Смертельна зброя проти осіб</color>",
+        "target": "Покращена версія Штурмової гвинтівки (рів. 2),\nзавантажена <color name=red>гематичними набоями</color>, які ефективні проти BT.\nТакож обладнана оптичним прицілом та глушником.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Вогонь\nТримайте <ds-ficon name=acta_Fire>, щоб увімкнути автоматичний режим стрільби.\n<color name=orange>Летальна протипіхотна зброя</color>",
         "show": "always"
       },
       "4c8265e1-44b5-a649-9221-fd9004193f3b": {
         "source": "A hand grenade that explodes on impact, \nproducing a cloud of smoke that reduces \nvisibility and causes targets to choke. \n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Throw.\nThe harder you press <ds-ficon name=acta_Fire>, the further the grenade will travel. (If you are using a keyboard, the longer you hold <ds-ficon name=acta_Fire device=KBD> for, the further the grenade will travel.)\nNon-Lethal Anti-Personnel Weapon",
-        "target": "Ручна граната, яка вибухає при ударі, утворюючи хмару диму, яка зменшує видимість та змушує цілі кашляти.\n<ds-ficon name=acta_ADS[A]>: Намір + <ds-ficon name=acta_Fire>: Кидати.\nЧим сильніше ви натискаєте <ds-ficon name=acta_Fire>, тим далі граната полетить. (Якщо ви використовуєте клавіатуру, то чим довше ви утримуєте <ds-ficon name=acta_Fire device=KBD>, тим далі граната полетить.)\nНесмертельна зброя проти осіб",
+        "target": "Ручна граната, яка вибухає при ударі, \nутворюючи хмару диму, яка зменшує \nвидимість та змушує цілі кашляти.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Кидати.\nЧим сильніше ви натискаєте <ds-ficon name=acta_Fire>, тим далі граната полетить. (Якщо ви використовуєте клавіатуру, то чим довше ви утримуєте <ds-ficon name=acta_Fire device=KBD>, тим далі граната полетить.)\nНелетальна протипіхотна зброя",
         "show": "always"
       },
       "890053e2-0d0b-444e-96db-afde9a389c99": {
         "source": "Standard-issue Bridges firearm. Improvements upon its \npredecessor, the WM.556 (Lv. 2), include a retractable \nsuppressor that greatly reduces firing noise.\nAlso features a scope mount, a cheek pad, and a grip adaptor. \nThese features add a great degree of augmentability, and \nincrease stability while firing.\n\nAn optical scope has also been added, and the gun can now \nbe loaded with <color name=red>hematic rounds</color>. \nThis allows for instant aiming, and makes it effective against BTs.",
-        "target": "Стандартна вогнепальна зброя Bridges. Вдосконалення порівняно з її попередником, WM.556 (рів. 2), включають в себе зміцнений приглушувач, який значно зменшує шум стрільби.\nТакож є кріплення для прицілу, щоковий подушечка та адаптер рукоятки.\nЦі функції додають велику ступінь доповнення та збільшують стійкість під час стрільби.\n\nТакож був доданий оптичний приціл, і тепер гвинтівку можна зарядити <color name=red>гематичними набоями</color>.\nЦе дозволяє миттєво намірюватися та робить її ефективною проти BT.",
+        "target": "Стандартна вогнепальна зброя Bridges. Вдосконалення порівняно з її \nпопередником, WM.556 (рів. 2), включають в себе висувний \nглушник, який значно зменшує шум стрільби.\nТакож є кріплення для прицілу, накладка на щоку та адаптер для захоплення.\nЦі функції додають великий ступінь доповнення та \nзбільшують стійкість під час стрільби.\n\nТакож був доданий оптичний приціл, і тепер гвинтівку можна \nзарядити <color name=red>гематичними набоями</color>.\nЦе дозволяє миттєво прицілюватися та робить її ефективною проти BT.",
         "show": "always"
       },
       "ee1c82e2-6e29-5f46-8030-b6f8adaa8aff": {
         "source": "Shotgun",
-        "target": "Стрільба дробовиком",
+        "target": "Дробовик",
         "show": "always"
       },
       "ec2167e3-7011-dd48-927b-3010a14eaf2b": {
         "source": "Golden Shells",
-        "target": "Золоті раковини",
+        "target": "Золоті гільзи",
         "show": "always"
       },
       "432138e5-67ae-0e4e-9b2b-bf645da6faca": {
         "source": "Slip Grenade",
-        "target": "Ковзана граната",
+        "target": "Сковзаюча граната",
         "show": "always"
       },
       "a5fce2e5-3361-4c4d-991d-ae062c53d69c": {
         "source": "A semi-automatic handgun prized for its portability.\n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Fire\n<color name=orange>Lethal Anti-personnel Weapon</color>",
-        "target": "Напівавтоматичний пістолет, цінують за його портативність.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Вогонь\n<color name=orange>Смертоносна антіперсонна зброя</color>",
+        "target": "Напівавтоматичний пістолет, який цінують за його портативність.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Вогонь\n<color name=orange>Летальна протипіхотна зброя</color>",
         "show": "always"
       },
       "ca9d69e6-5a91-6d41-9869-5da63b80f0b7": {
@@ -125283,12 +125283,12 @@
       },
       "45d72be9-59ea-1042-8707-296e048f8aae": {
         "source": "Sticky bullets connected to a wire. \nThe wire affixes to a target, \nallowing the user to reel the target in. Sticky rounds do not cause any damage to humans or BTs.",
-        "target": "Липкі кулі, з'єднані дротом.\nДріт кріпиться до цілі,\nщо дозволяє користувачеві затягувати ціль. Липкі кулі не завдають шкоди людям або ВЕ.",
+        "target": "Липкі кулі, з'єднані дротом.\nДріт кріпиться до цілі,\nщо дозволяє користувачеві затягувати ціль. Липкі кулі не завдають шкоди людям або BT.",
         "show": "always"
       },
       "a5c9a4e9-1964-6144-b1dd-4c37752ada8a": {
         "source": "A revolver-style grenade launcher that fires projectiles \nthat detonate on impact. Loaded with anti-BT <color name=red>hematic rounds</color>, lethal <color name=orange>grenade rounds</color>, slip rounds, \nand non-lethal tranquilizer rounds enabling it to be \nused in a variety of situations. \n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Fire",
-        "target": "Револьверний гранатомет, що стріляє снарядами,\nякі вибухають при ударі. Заряджений анті-ВЕ <color name=red>гематичними снарядами</color>, смертоносними <color name=orange>гранатними снарядами</color>, ковзальними снарядами\nі несмертоносними транквілізаторними снарядами, що дозволяє використовувати його в різних ситуаціях.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Вогонь",
+        "target": "Револьверний гранатомет, що стріляє снарядами,\nякі вибухають при ударі. Заряджений анті-BT <color name=red>гематичними снарядами</color>, летальними <color name=orange>гранатними снарядами</color>, ковзальними снарядами\nі нелетальними транквілізаторними снарядами, що дозволяє \nвикористовувати його в різних ситуаціях.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Вогонь",
         "show": "always"
       },
       "e373e6eb-b802-7b4f-a3eb-de0d59bfa4ee": {
@@ -125298,12 +125298,12 @@
       },
       "bc7452ec-a3fe-4941-b493-11358c0cbbff": {
         "source": "A tower equipped with sensor cameras able \nto detect cargo, cryptobiotes, and structures. \nIt can be used for long-range surveillance and recon.\nOnce constructed, this structure can be upgraded \nto Level 2 by using the following materials:\n<icon name=gaiji_tutorial_material_crystal>Chiral Crystals: 32cg\n<icon name=gaiji_tutorial_material_metal>Metals: 400",
-        "target": "Вежа з сенсорними камерами, здатна виявляти вантаж, криптобіоти й структури.\nВона може бути використана для амплуації на великій відстані та розвідки.\nПісля побудови цю структуру можна покращити до рівня 2, використовуючи такі матеріали:\n<icon name=gaiji_tutorial_material_crystal>Хіральні кристали: 32cg\n<icon name=gaiji_tutorial_material_metal>Метали: 400",
+        "target": "Вежа з сенсорними камерами, здатна \nвиявляти вантаж, криптобіоти й структури.\nМоже використовуватися для дальнього спостереження та розвідки.\nПісля побудови цю структуру можна покращити \nдо рівня 2, використовуючи такі матеріали:\n<icon name=gaiji_tutorial_material_crystal>Хіральні кристали: 32cg\n<icon name=gaiji_tutorial_material_metal>Метали: 400",
         "show": "always"
       },
       "9def5fec-30fb-0441-98b8-e6e6c9a41dee": {
         "source": "An improved version of FAI's GL-Six, now featuring \nremote-detonation functionality. Loaded with grenades \nwhich attach themselves to the point of impact, allowing \nthe user to detonate them when they choose.\nThis makes targeted remote attacks a possibility, greatly \nbroadening the tactical possibilities available.",
-        "target": "Покращена версія GL-Six від FAI із функцією віддаленого підірву. Завантажена гранатами, які прикріплюються до місця удару, дозволяючи користувачеві підірвати їх за власним вибором. Це відкриває можливість точних віддалених атак, значно розширюючи тактичні можливості.",
+        "target": "Покращена версія GL-Six від FAI із функцією \nвіддаленого підриву. Завантажена гранатами, \nякі прикріплюються до місця удару, дозволяючи \nкористувачеві підірвати їх за власним вибором. \nЦе відкриває можливість точних віддалених атак, \nзначно розширюючи доступні тактичні можливості.",
         "show": "always"
       },
       "994a2ced-6ad2-b441-b725-fb51260c7c2d": {
@@ -125318,42 +125318,42 @@
       },
       "dbbc9bed-d433-fc48-9ba0-fe6d53e58e9f": {
         "source": "Hand-thrown grenade, designed for use in BT battles.\nA cloud of Sam's blood mixed with gas is produced when \nthe grenade detonates, engulfing any nearby BTs.",
-        "target": "Ручна граната, призначена для використання в боях з BT. Хмара крові Семена, змішана з газом, утворюється під час підриву гранати, оточуючи будь-яких поблизу BT.",
+        "target": "Ручна граната, призначена для використання в боях з BT. \nХмара крові Семена, змішана з газом, утворюється під час \nпідриву гранати, поглинаючи будь-яких BT поблизу.",
         "show": "always"
       },
       "29c581ef-bd67-8446-91cb-0c2d76979564": {
         "source": "A customized version of the Non-Lethal Assault Rifle,\nloaded with chiralium-coated golden rubber rounds \nthat are more effective against BTs. \nThey will consume stored chiral crystals when fired. ",
-        "target": "Спеціалізована версія Несмертельної Автоматичної Гвинтівки, завантажена золотистими гумовими набоями, покритими хіралієм, які ефективніше діють проти BT. Вони споживатимуть накопичені хіральні кристали при стрільбі.",
+        "target": "Каситомізована версія Нелетальної штурмової гвинтівки, \nзаряджені золотистими гумовими кулями з хіралієвим покриттям, \nякі ефективніше діють проти BT. \nВони споживатимуть накопичені хіральні кристали при стрільбі.",
         "show": "always"
       },
       "98169def-8136-1449-bca3-268218dc105e": {
         "source": "Timefall Shelter",
-        "target": "Пристанище від дощу часу",
+        "target": "Укриття від Часопаду",
         "show": "always"
       },
       "35e9a8ef-bd0f-a248-ab36-be52f8388070": {
         "source": "A catapult that allows pods of cargo to be thrown through the air over long distances. Each cargo pod is fitted with a parachute to prevent it from being damaged on landing. Be sure to open the parachute before the pod hits the ground.\n<ds-ficon name=acta_Action>: Open Parachute\nThe pod can be controlled remotely while its parachute is open.\n\nPost-construction, this structure can be upgraded to Level 2 by using the following materials:\n<icon name=gaiji_tutorial_material_resin> Resins: 320\n<icon name=gaiji_tutorial_material_chemical> Chemicals: 240",
-        "target": "Катапульта, яка дозволяє кидати капсули з вантажем в повітря на великі відстані. Кожна вантажна капсула обладнана парашутом, щоб запобігти її пошкодженню при посадці. Обов'язково відкрийте парашут перед тим, як капсула вдариться об землю. Після побудови ця споруда може бути покращена до рівня 2 за допомогою таких матеріалів:\n<icon name=gaiji_tutorial_material_resin> Смоли: 320\n<icon name=gaiji_tutorial_material_chemical> Хімікати: 240",
+        "target": "Катапульта, яка дозволяє кидати капсули з вантажем в повітря на великі відстані. Кожна вантажна капсула обладнана парашутом, щоб запобігти її пошкодженню при посадці. Обов'язково розкрийте парашут перед тим, як капсула вдариться об землю.\n<ds-ficon name=acta_Action>: Розкрити парашут\nКапсулою можна керувати віддалено поки її парашут розкритий.\n\nПісля побудови ця споруда може бути покращена до рівня 2 за допомогою таких матеріалів:\n<icon name=gaiji_tutorial_material_resin> Смоли: 320\n<icon name=gaiji_tutorial_material_chemical> Хімікати: 240",
         "show": "always"
       },
       "76b8c3ef-e89c-7544-818b-76e79d95cb22": {
         "source": "EX Gun",
-        "target": "Екс-гвинтівка",
+        "target": "EX Ґан",
         "show": "always"
       },
       "af64fcef-07c3-1645-8983-59de7e4068aa": {
         "source": "Standard hand grenade that detonates shortly \nafter being thrown, inflicting damage over a fixed area.\n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Throw.\nThe harder you press <ds-ficon name=acta_Fire>, the further the grenade will travel. (If you are using a keyboard, the longer you hold <ds-ficon name=acta_Fire device=KBD> for, the further the grenade will travel.)\n<color name=orange>Lethal Anti-Personnel Weapon</color>",
-        "target": "Стандартна граната, яка вибухає коротко після кидка, завдаючи шкоду у певній області.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Кидок.\nЧим сильніше ви натискаєте <ds-ficon name=acta_Fire>, тим далі граната пролетить. (Якщо ви використовуєте клавіатуру, то чим довше тримаєте <ds-ficon name=acta_Fire device=KBD>, тим далі граната пролетить.)\n<color name=orange>Смертельна протиособистість</color>",
+        "target": "Стандартна граната, яка вибухає незадовго після кидка, завдаючи шкоду у певній області.\n<ds-ficon name=acta_ADS[A]>: Приціл + <ds-ficon name=acta_Fire>: Кидок.\nЧим сильніше ви натискаєте <ds-ficon name=acta_Fire>, тим далі граната пролетить. (Якщо ви використовуєте клавіатуру, то чим довше тримаєте <ds-ficon name=acta_Fire device=KBD>, тим далі граната пролетить.)\n<color name=orange>Летальна протипіхотна зброя</color>",
         "show": "always"
       },
       "11cd78f0-7eaa-804b-b73d-6f8b117da28f": {
         "source": "An experimental, non-lethal weapon developed by Bridges for use by porters. Makes use of the MASER (Magnetically Accelerated Stroke of Electric Reverberation) effect generated by the interaction between chiral and magnetic fields to unleash a powerful electrical charge.\nRenders human targets unconscious, and temporarily immobilizes vehicles. The maser gun is effective over a wider area if discharged near water.",
-        "target": "Експериментальна несмертельна зброя, розроблена Bridges для використання носіями. Використовує ефект MASER (Магнітно Акселерований Удар Електричної Реверберації), що виникає взаємодією між хіральними і магнітними полями, щоб вивільнити потужний електричний заряд.\nПриголомшує людей, тимчасово паралізує транспортні засоби. Maser Gun ефективна на більшій площі, якщо використовується біля води.",
+        "target": "Експериментальна нелетальна зброя, розроблена Bridges для використання кур'єрами. Використовує ефект MASER (Магнітно Присокрений Удар Електричної Реверберації), створений взаємодією між хіральними і магнітними полями, щоб вивільнити потужний електричний заряд.\nПриголомшує людей, тимчасово паралізує транспортні засоби. Масер Ґан ефективний на більшій площі, якщо використовується біля води.",
         "show": "always"
       },
       "49bb0df1-9a2e-c347-8b75-24a48e8437f7": {
         "source": "Maser Gun",
-        "target": "Масер Ган",
+        "target": "Масер Ґан",
         "show": "always"
       },
       "60cbc5f1-8ffc-2548-bb0d-e88c7c1c8c5d": {
@@ -125363,7 +125363,7 @@
       },
       "15fb01f2-433d-1647-acfa-e5726c2ed988": {
         "source": "Bola Gun",
-        "target": "Арканомет",
+        "target": "Бола Ґан",
         "show": "always"
       },
       "0e6d22f3-571b-8c4f-aebe-62b7b7aa828d": {
@@ -125373,37 +125373,37 @@
       },
       "b4cc54f3-b7af-6746-b5e1-700f0c4efd77": {
         "source": "A rocket launcher that fires guided multi-warhead rockets.\nLoaded with standard <color name=orange>explosive rockets</color> \nmaking them lethal against humans but ineffective against BTs.",
-        "target": "Ракетний зенітний комплекс, що стріляє керованими багатоголовковими ракетами.\nЗавантажений стандартними <color name=orange>вибуховими ракетами</color>, які зроблять їх смертельними для людей, але неефективними проти BTs.",
+        "target": "Ракетний зенітний комплекс, що стріляє керованими багатоголовковими ракетами.\nЗавантажений стандартними <color name=orange>вибуховими ракетами</color>, \nякі роблять їх летальними для людей, але неефективними проти BT.",
         "show": "always"
       },
       "9969daf3-cd8c-ff4e-8d9e-5fe66f9fd4b4": {
         "source": "A customized version of the Handgun, \nloaded with chiralium-coated golden rounds \nthat are more effective against BTs. \nThey will consume stored chiral crystals when fired. ",
-        "target": "Спеціальна версія пістолета, завантажена золотими патронами, покритими хіралієм, які є більш ефективними проти BTs. \nВони використовуватимуть накопичені хіральні кристали при пострілі.",
+        "target": "Кастомізована версія пістолета, \nзавантажена золотими патронами, покритими хіралієм, \nякі є більш ефективними проти BTs. \nВони використовуватимуть накопичені хіральні кристали при пострілі.",
         "show": "always"
       },
       "f586b8f4-d41b-f849-9c50-946a2beac529": {
         "source": "A customized version of the Riot Shotgun,\nloaded with blood-coated <color name=red>rubber hematic shells</color> \nthat are effective against BTs.\nBe aware that they will draw from Sam's body \nif a blood bag is not equipped, \nso keep an eye on your blood levels.",
-        "target": "Спеціалізована версія гвинтівки Riot, завантажена кров'ю, вкрита <color name=red>резиновими гематичними набоями</color>, які ефективні проти ВФ. Слід мати на увазі, що вони заберуть кров з тіла Семена, якщо не буде обладнано кров'яним мішком, тому тримайте пильований рівень крові.",
+        "target": "Спеціалізована версія Riot-дробовика, \nзавантажена покритими кров'ю <color name=red>гумовими гематичними набоями</color>, \nякі ефективні проти BT. \nСлід мати на увазі, що вони заберуть кров з тіла Семена, \nякщо не буде обладнано пакетом з кров'ю, \nтому стежте за своїм рівнем крові.",
         "show": "always"
       },
       "1fb94ff6-e7fb-1148-9c02-9628795d6052": {
         "source": "Non-Lethal Assault Rifle",
-        "target": "Не смертоносна штурмова гвинтівка",
+        "target": "Нелетальна штурмова гвинтівка",
         "show": "always"
       },
       "b272e1f6-8064-ce42-b23f-1add1ed99a4d": {
         "source": "Standard-issue Bridges firearm. A custom version of the WM.556, \nwith an increased ammo capacity. This model is also capable \nof firing both <color name=red>hematic rounds</color> and golden rounds, \nmaking it highly effective against BTs.\n\nIt has also been fitted with a grenade launcher that can fire both \nlethal and non-lethal grenades, as well as an optical scope \nand suppressor. These allow for instant aiming, and greatly \nreduce the amount of noise produced.",
-        "target": "Стандартний військовий вогнепальний зразок Bridges. Спеціальна версія WM.556, зі збільшеною ємністю боєприпасів. Ця модель також здатна стріляти як <color name=red>гематичними набоями</color>, так і золотими набоями, що робить її високоефективною проти ВФ. Також вона оснащена гранатометом, який може стріляти як смертоносними, так і несмертоносними гранатами, а також оптичним прицілом та приглушувачем. Вони дозволяють миттєво наводити приціл та значно зменшують вироблення шуму.",
+        "target": "Вогнепальна зброя компанії Bridges у стандартному виконанні. Спеціальна версія WM.556 \nзі збільшеним боєзапасом. Ця модель також здатна \nстріляти як <color name=red>гематичними набоями</color>, так і золотими набоями, \nщо робить її дуже ефективною проти BT. \n\nТакож вона оснащена гранатометом, який може стріляти як \nлетальними, так і нелетальними гранатами, а також оптичним прицілом \nі глушником. Вони дозволяють миттєво прицілюватися і значно \nзменшують кількість виробленого шуму.",
         "show": "always"
       },
       "bf6d07f7-9e7d-d94b-8f2a-3aed5b489a92": {
         "source": "Decoy Cargo",
-        "target": "Приманка відправлення",
+        "target": "Вантаж-приманка",
         "show": "always"
       },
       "083c5bf7-6ee6-1f46-b5d1-36acdc5d469b": {
         "source": "An improved version of the Shotgun (Lv. 1), \nloaded with <color name=orange>standard shells</color> \nthat are lethal to humans, but will have no effect on BTs.",
-        "target": "Покращена версія гвинтівки (рівень 1), завантажена <color name=orange>стандартними набоями</color>, які смертельні для людини, але не мають впливу на ВФ.",
+        "target": "Покращена версія дробовика (рівень 1), завантажена <color name=orange>стандартними набоями</color>, які летальні для людини, але не мають впливу на BT.",
         "show": "always"
       },
       "3d5ac7f8-d3bb-194f-959b-275735e899ef": {
@@ -125413,12 +125413,12 @@
       },
       "6e36c9f8-7053-b24e-adf9-8fb00cdba3e4": {
         "source": "Non-Lethal Assault Rifle (Lv. 2)",
-        "target": "Не смертоносна штурмова гвинтівка (рівень 2)",
+        "target": "Нелетальна штурмова гвинтівка (рівень 2)",
         "show": "always"
       },
       "548ad2f8-a6ec-5a4b-8343-17c03d51bc40": {
         "source": "Rubber Hematic Shells",
-        "target": "Резинові гематичні набої",
+        "target": "Гумові гематичні набої",
         "show": "always"
       },
       "4edf01f9-e927-1e4e-80c4-723191c0a0b4": {
@@ -125438,7 +125438,7 @@
       },
       "e24f0cfc-83b5-1a4b-8388-914b54d4bb59": {
         "source": "A customized Shotgun, loaded with more effective \nanti-BT golden shells that consume chiral crystals.\nIncludes an optical sight, increased ammo capacity, \nand fires four types of grenades.  \n<ds-ficon name=hudh_MagazineSlctr[H]>: Switch Between Shotgun/Grenade Launcher\n<ds-ficon name=acta_ADS[A]>: Aim + <ds-ficon name=acta_Fire>: Fire",
-        "target": "Корегований кулемет, завантажений більш ефективними антивикористовувальним золотими гільзами, які споживають хіральні кристали. Має оптичний приціл, збільшену місткість боєприпасів, вогнемет та стріляє чотирма типами гранат. <ds-ficon name=hudh_MagazineSlctr[H]>: Перемикання між кулеметом/гранатометом <ds-ficon name=acta_ADS[A]>: Прицілювання + <ds-ficon name=acta_Fire>: Вогонь",
+        "target": "Кастомізований дробовик, завантажений більш ефективними \nзолотими гільзами проти BT, які споживають хіральні кристали. \nМає оптичний приціл, збільшену місткість набоїв, \nта стріляє чотирма типами гранат. \n<ds-ficon name=hudh_MagazineSlctr[H]>: Перемикання між кулеметом/гранатометом <ds-ficon name=acta_ADS[A]>: Прицілювання + <ds-ficon name=acta_Fire>: Вогонь",
         "show": "always"
       },
       "dc9fb2fc-dea6-5848-a3cc-cb85cad371d1": {
@@ -125448,7 +125448,7 @@
       },
       "97984afd-567e-8a42-8df3-82e4162594a6": {
         "source": "A capsule containing Sam's bodily fluids, excrement, and \nother waste products. Heartman theorized that, \nsince Sam's blood is effective against BTs, perhaps these \nsubstances might work in the same way, and began \ncollecting them whenever Sam used the shower and toilet.\nDifferent bodily fluids are thought to have different \neffects on BTs, but the exact details remain unclear.\nHandling other people's bodily waste is not pleasant, \nstill nothing ventured, nothing gained.\n",
-        "target": "Капсула, що містить тілові рідини Семена, екскременти та інші відходи. Хартман припустив, що, оскільки кров Семена ефективна проти ВТ, можливо ці речовини працюють таким же чином, тому почав збирати їх, коли Семен користувався душем та туалетом. Вважається, що різні тілові рідини мають різні ефекти на ВТ, але точні деталі залишаються невизначеними. Робота з відходами людського організму не приємна, але нікуди без цього.",
+        "target": "Капсула, що містить тілесні рідини Семена, екскременти та \nінші відходи. Гартмен припустив, що, \nоскільки кров Семена ефективна проти ВТ, можливо ці \nречовини працюють таким же чином, тому почав \nзбирати їх, коли Семен користувався душем та туалетом. \nВважається, що різні тілові рідини мають різні ефекти на ВТ, але точні деталі залишаються невизначеними. \nРобота з відходами людського організму не приємна, \nале нікуди без цього.\n",
         "show": "always"
       },
       "6ce987fd-25cf-ce4b-8404-f79223ab0dde": {
@@ -128496,7 +128496,7 @@
       },
       "071ab13e-0b01-d64b-ad7e-abe9f54f46ab": {
         "source": "Are you sure you want to sell [item_name] for [sell_price] shards?",
-        "target": "Ви впевнені, що хочете продати [item_name] за [sell_price] кришталів?",
+        "target": "Ви впевнені, що хочете продати [item_name] за [sell_price] уламків?",
         "show": "always"
       },
       "c112ab40-d96e-5240-a78b-1c233cf344bf": {
@@ -128531,7 +128531,7 @@
       },
       "d95eb342-f9c6-d045-b7cf-468768569b5b": {
         "source": "Datapoints",
-        "target": "Дані",
+        "target": "Точки даних",
         "show": "always"
       },
       "470cbe42-e33c-e511-a6f7-a0369f3e1d1a": {
@@ -128561,12 +128561,12 @@
       },
       "f05d9c46-96b2-f448-b2a5-c8ed8e71c1b8": {
         "source": "Game completion: <em>[PERCENT]%</em>",
-        "target": "Пройдено гру: <em>[ВІДСОТОК]%</em>",
+        "target": "Пройдено гру: <em>[PERCENT]%</em>",
         "show": "always"
       },
       "ed0c8047-a987-e511-8774-a0369f318f94": {
         "source": "Daytower",
-        "target": "Денний вежа",
+        "target": "Денна вежа",
         "show": "always"
       },
       "fb019c47-1890-ea43-a53b-738ffecdcd64": {
@@ -128586,7 +128586,7 @@
       },
       "2746e947-5b61-8f4e-8922-b496be5b5872": {
         "source": "Black Frame",
-        "target": "Чорна рама",
+        "target": "Чорна рамка",
         "show": "always"
       },
       "b9f61c48-3749-b24a-9d4a-deeac34a63f2": {
@@ -128641,7 +128641,7 @@
       },
       "0547854c-22b1-aa4e-8320-2188ffaafc43": {
         "source": "Text language",
-        "target": "Мова текстів",
+        "target": "Мова тексту",
         "show": "always"
       },
       "afd0a24c-bb80-0f43-b505-7133dd4dea71": {
@@ -128651,7 +128651,7 @@
       },
       "4bb8274d-8e09-b545-9b8f-84d95721a42f": {
         "source": "Immune to Corruption",
-        "target": "Імунний до Заплямованості",
+        "target": "Імунітет до корупції",
         "show": "always"
       },
       "3e00b24d-830b-bf4d-9059-f8fb74521084": {
@@ -128701,7 +128701,7 @@
       },
       "5f03f750-4556-e84a-a5c3-7bae59ecc022": {
         "source": "Adjust the volume of in-game spoken dialogue",
-        "target": "Регулювання гучності голосового діалогу в грі",
+        "target": "Регулювання гучності внутрішньоігрових діалогів",
         "show": "always"
       },
       "8191fe50-6b83-b543-9dae-d5e23a351095": {
@@ -128716,12 +128716,12 @@
       },
       "3cc75751-7dc2-684b-bb5a-77c0304bdd14": {
         "source": "Increase the size of your Tearblaster Ammo Pouch",
-        "target": "Збільшення розміру сумки для боєприпасів Tearblaster",
+        "target": "Збільшення розміру підсумку для набоїв Tearblaster",
         "show": "always"
       },
       "3fb4ed51-5eeb-794d-a933-8357c2d2eaa3": {
         "source": "Move Camera",
-        "target": "Пересування камери",
+        "target": "Пересунути камеру",
         "show": "always"
       },
       "2af13b52-eb65-e511-8ba3-a0369f3181c4": {
@@ -128731,7 +128731,7 @@
       },
       "11336a54-96c8-a249-9043-1c576c7d95f6": {
         "source": "Glinthawk site",
-        "target": "Місце гнізда Glinthawk",
+        "target": "Місце Glinthawk",
         "show": "always"
       },
       "a23ec255-5d09-fb4b-a670-1119ed8a5d34": {
@@ -128756,7 +128756,7 @@
       },
       "7a192b58-c8f3-3048-bacd-a71c64fe149c": {
         "source": "Southern Embrace Gate",
-        "target": "Південні ворота Обійми",
+        "target": "Південна Брама Обіймів",
         "show": "always"
       },
       "060c9158-a9f4-e411-88f5-005056a2001a": {
@@ -128771,7 +128771,7 @@
       },
       "0b32d658-f00c-d044-9548-e825cc126a4d": {
         "source": "Longleg site",
-        "target": "Місце Довгоніга",
+        "target": "Місце Довгонога",
         "show": "always"
       },
       "49241d59-1135-a144-9bb1-199db8fe9805": {
@@ -128781,12 +128781,12 @@
       },
       "cfef4c59-3a75-4444-8ced-1ee2875d712a": {
         "source": "Crane Up",
-        "target": "Підніміть кран",
+        "target": "Підняти кран",
         "show": "always"
       },
       "952e7a59-9a8d-6442-a27e-b3d99008977c": {
         "source": "Swollen with volatile liquid cargo, it can spray streams of its cargo to engulf enemies.",
-        "target": "Набряклий вибухонебезпечним вантажем, він може розпилювати потоки вантажу, щоб оточити ворогів.",
+        "target": "Наповнений летючим рідким вантажем, він може розпилювати потоки свого вантажу, щоб поглинути ворогів.",
         "show": "always"
       },
       "07efbf59-d7e2-7a4c-99bd-dcef2250e333": {
@@ -128811,7 +128811,7 @@
       },
       "4e4a375b-70d3-c144-bfad-30c2b08fc9c2": {
         "source": "Flying scavengers that travel in groups, swooping to use ranged Freeze attacks or razor-sharp claws.",
-        "target": "Птахи-падальники, які подорожують у групах, обвисаючи, щоб використовувати дальні атаки заморожування або гострі язички.",
+        "target": "Птахи-падальники, які подорожують у групах, обвисаючи, щоб використовувати дальні атаки заморожування або гострі пазурі.",
         "show": "always"
       },
       "f53e335c-7087-5b4b-9977-6b54078f43ff": {
@@ -128826,12 +128826,12 @@
       },
       "cab69860-9b37-f54f-810a-40067f0191b2": {
         "source": "Snapmaw site",
-        "target": "Місце зустрічі Снепмо",
+        "target": "Місце Снепмо",
         "show": "always"
       },
       "930e1b61-7593-4743-a121-8a3e0d472c2e": {
         "source": "Human Enemies",
-        "target": "Людські ворожі сили",
+        "target": "Людські вороги",
         "show": "always"
       },
       "75d92d61-9370-d94b-b2f3-cbb3c45706ad": {
@@ -128841,12 +128841,12 @@
       },
       "8310e962-eb6f-744b-8228-c04024247954": {
         "source": "Daytower Gate",
-        "target": "Воріт Дейтауер",
+        "target": "Ворота Дейтауер",
         "show": "always"
       },
       "53c30d64-f710-7f49-b2e1-fdc2f5ebd3e3": {
         "source": "Tearblaster Ammo Pouch",
-        "target": "Подсумковий мішок для розірваних сейворів",
+        "target": "Підсумок для набоїв Tearblaster",
         "show": "always"
       },
       "72c17264-10f7-cb4b-abed-e4475f78b30d": {
@@ -128866,12 +128866,12 @@
       },
       "74c76766-9687-e511-8774-a0369f318f94": {
         "source": "Mother's Watch",
-        "target": "Батьківська сторожа",
+        "target": "Материнська варта",
         "show": "always"
       },
       "699c8467-d55e-8149-a6f7-c72e9cb888fb": {
         "source": "Increase the size of your Rattler Ammo Pouch",
-        "target": "Збільшити обсяг патронів для вашої сумки зі стрільбило",
+        "target": "Збільшити розмір підсумка для набоїв Rattler",
         "show": "always"
       },
       "e1a6c767-392a-e511-9ad9-005056a2001a": {
@@ -128881,12 +128881,12 @@
       },
       "3607d967-c0d7-ab4c-bbb5-12d8cdba7c80": {
         "source": "Trampler site",
-        "target": "Сайт Trampler",
+        "target": "Місце Trampler",
         "show": "always"
       },
       "61e51468-06f5-4f45-80be-2fece2612922": {
         "source": "Photo Mode",
-        "target": "Режим фото",
+        "target": "Фото-Режим",
         "show": "always"
       },
       "cce24668-5f3f-e511-a11d-c8600008d7ea": {
@@ -128896,7 +128896,7 @@
       },
       "7508ee68-e84d-724b-bfb7-74e6027894a7": {
         "source": "Unearthed ancient weapon platform, built to deliver overwhelming force. Prone to overheating.",
-        "target": "Розкопана давня збройна платформа, створена для надання потужної сили. Схильна до перегрівання.",
+        "target": "Розкопана стародавня збройова платформа, побудована для доставки переважної сили. Схильна до перегріву.",
         "show": "always"
       },
       "51265469-f601-da47-bff0-e2fd508ebc80": {
@@ -128941,7 +128941,7 @@
       },
       "f0dbc86e-5bd5-e511-83c7-a0369f256742": {
         "source": "Floor down",
-        "target": "Поверх вниз",
+        "target": "Поверхом вниз",
         "show": "always"
       },
       "2cba1e6f-dfa0-314e-baf9-66ac35bb9880": {
@@ -128961,7 +128961,7 @@
       },
       "667efb70-bb6b-bd4c-a61a-33b7f0a860c6": {
         "source": "When a threat is detected, these herd machines will actively pursue and attack in numbers.",
-        "target": "При виявленні загрози ці стада машин будуть активно пресувати і атакувати в численності.",
+        "target": "При виявленні загрози ці стада машин будуть активно пресувати і атакувати кількістю.",
         "show": "always"
       },
       "0c7f3e72-9687-e511-8774-a0369f318f94": {
@@ -128976,7 +128976,7 @@
       },
       "fc320573-e8a8-c746-abf8-2aa9cbfbed81": {
         "source": "The toughest combat experience for those who really want a challenge",
-        "target": "Найважчий бій для тих, хто справді хоче випробувань",
+        "target": "Найважчий бійовий досвід для тих, хто справді хоче випробувань",
         "show": "always"
       },
       "49b87673-60f9-f64f-acd5-d8a484ff9e91": {
@@ -129006,12 +129006,12 @@
       },
       "a3d3ac76-47b4-434a-ae48-51b4f043d0cb": {
         "source": "(Hold) Search Shell-Walker",
-        "target": "(Тримати) Пошук оболонки Шел-Вокера",
+        "target": "(Тримати) Пошук Шел-Вокера",
         "show": "always"
       },
       "8eca1977-3d0d-6345-b8e2-19fd929ea093": {
         "source": "You are already at this destination.",
-        "target": "Ви вже знаходитесь за місцем призначення.",
+        "target": "Ви вже знаходитесь на місці призначення.",
         "show": "always"
       },
       "b84fd677-5e24-794b-951e-95614e278b2c": {
@@ -129031,7 +129031,7 @@
       },
       "db515879-f447-ff4c-bc7e-ead8ede6a490": {
         "source": "Continue last campfire save",
-        "target": "Продовжити останній збережений багаття у таборі",
+        "target": "Продовжити останнього збереження біля багаття у таборі",
         "show": "always"
       },
       "92a58879-9842-6e48-9eed-1f5c5639a97c": {
@@ -129076,12 +129076,12 @@
       },
       "75ba4a7b-2d90-b141-9aac-527d8f3e7870": {
         "source": "Cross Process 2",
-        "target": "Перетин процесу 2",
+        "target": "Перехресний процес 2",
         "show": "always"
       },
       "a4ce8b7b-bd2e-5d4a-ad9e-78d6de2fbd52": {
         "source": "Overlay",
-        "target": "Налаштування",
+        "target": "Накладення",
         "show": "always"
       },
       "bd51d27b-4081-c84f-a197-6fd7a2e40b0c": {
@@ -129091,7 +129091,7 @@
       },
       "9ea6d57b-a1e9-ef44-a18a-fa47a5ec75c8": {
         "source": "A deafening sonic blast attack, powerful jump jets and an alarm call make it a tricky opponent.",
-        "target": "Глухий сонічний удар, потужні стрибки та сигнал тривоги роблять його складним супротивником.",
+        "target": "Оглушлива звукова вибухова атака, потужні стрибкові струмені та тривожний сигнал роблять його хитрим супротивником.",
         "show": "always"
       },
       "17fa1a7c-9ff7-a848-bcae-4b6476576e71": {
@@ -129101,7 +129101,7 @@
       },
       "cb1a6f7c-7296-254f-bf85-52f528c8b8c6": {
         "source": "Main Embrace Gate",
-        "target": "Головний Вік Хвилини",
+        "target": "Головна Брама Обіймів",
         "show": "always"
       },
       "5578b27c-03e2-1047-92fc-b465aefa86ba": {
@@ -129121,7 +129121,7 @@
       },
       "2fc8487e-f1a0-2844-ae68-1fcaaecf3319": {
         "source": "None",
-        "target": "Ні",
+        "target": "Жоден",
         "show": "always"
       },
       "a4c9627e-329f-e649-9d12-83c99f5f84c2": {
@@ -129146,7 +129146,7 @@
       },
       "3a115780-f520-8641-bc3a-e8d61b32783a": {
         "source": "Increase the size of your Ropecaster Ammo Pouch",
-        "target": "Збільшити розмір карману для амуніції для Верстату Зв'язування",
+        "target": "Збільшити розмір підсумку для набоїв Ropecaster",
         "show": "always"
       },
       "a785b280-f541-3b47-ab66-29df13ea06f0": {
@@ -129156,7 +129156,7 @@
       },
       "c3749182-9b87-e511-8774-a0369f318f94": {
         "source": "Mother's Rise",
-        "target": "Вершина Матері",
+        "target": "Материнське Піднесення",
         "show": "always"
       },
       "c9542e83-6084-4844-872d-93c814c510d2": {
@@ -129166,7 +129166,7 @@
       },
       "727dcd83-c5d7-9b43-b59c-b5a0a9f278b9": {
         "source": "Increase the size of your Tripcaster Ammo Pouch",
-        "target": "Збільшити розмір карману для амуніції для Верстату Пастки",
+        "target": "Збільшити розмір підсумку для набоїв Tripcaster",
         "show": "always"
       },
       "0fad2c85-8b04-4544-96c7-013ff8ba24a6": {
@@ -129181,12 +129181,12 @@
       },
       "074a9487-1b3b-1b48-aabe-d2212327990d": {
         "source": "Bottom Center",
-        "target": "Нижня центральна частина",
+        "target": "Внизу по центру",
         "show": "always"
       },
       "3fc0af87-5000-c844-a143-0c36a577f3af": {
         "source": "Press <icon name=triangle> to open in PS Store",
-        "target": "Натисніть <icon name=triangle>, щоб відкрити в магазині PS",
+        "target": "Натисніть <icon name=triangle>, щоб відкрити в PS Store",
         "show": "always"
       },
       "c3af0588-3118-4245-99f7-4dee3441050b": {
@@ -129201,12 +129201,12 @@
       },
       "a4f54888-2135-e511-9a9d-a0369f256532": {
         "source": "Add to medicine pouch",
-        "target": "Додати до аптечки",
+        "target": "Додати до медичного підсумку",
         "show": "always"
       },
       "125e1189-32bf-2140-b9e2-6613bdf44b36": {
         "source": "4K Resolution",
-        "target": "4K Роздільна здатність",
+        "target": "Роздільна здатність 4K",
         "show": "always"
       },
       "2c4bb489-c6a0-4a47-8336-09db2f7fa4ac": {
@@ -129216,7 +129216,7 @@
       },
       "597ab889-7cf6-2649-8544-8b23e45fd5bd": {
         "source": "Destroying this component disables ranged sonic attacks, and triggers a compressed air explosion inflicting tear damage on anything in the area.",
-        "target": "Знищення цієї складової вимикає дальні звукові атаки та спричиняє вибух стиснутого повітря, завдаючи шкоди розриву усьому в області.",
+        "target": "Знищення цієї складової вимикає дальні звукові атаки та спричиняє вибух стиснутого повітря, завдаючи пошкоджень від сліз будь-чому в цій зоні.",
         "show": "always"
       },
       "60ebc889-6c76-464f-be2e-56b49109a1aa": {
@@ -129226,12 +129226,12 @@
       },
       "3a49e989-5bd5-e511-83c7-a0369f256742": {
         "source": "Floor up",
-        "target": "Поверх вгору",
+        "target": "Поверхом вище",
         "show": "always"
       },
       "2101f289-fc22-0b43-9c3b-f137c3767d63": {
         "source": "Blueprint: Stun Gun ammo pouch upgrade 2",
-        "target": "Схема: Оновлення кишені для боєприпасів електрошокової гранати 2",
+        "target": "Креслення: Оновлення підсумка для набоїв електрошокера 2",
         "show": "always"
       },
       "0d98df8a-4892-7d48-9c85-0a973922a1a1": {
@@ -129241,7 +129241,7 @@
       },
       "5db2348b-a413-0048-8bf9-319bbdedf2c1": {
         "source": "Blueprint: Stun Gun Weapon - Superior",
-        "target": "Схема: Зброя електрошокової гранати – Високоякісна",
+        "target": "Креслення: Зброя-Електрошокер – Високоякісна",
         "show": "always"
       },
       "35b4718b-42f8-c944-8189-9be88c86c63f": {
@@ -129261,7 +129261,7 @@
       },
       "9ca0f08c-b30d-0b46-87f4-88ca13e5436a": {
         "source": "Scanned",
-        "target": "Сканується",
+        "target": "Відсканований",
         "show": "always"
       },
       "a940008d-34fb-6645-9c3e-483f7418d262": {
@@ -129291,7 +129291,7 @@
       },
       "95d9bf8e-8465-5c4c-90be-fea8b7fbfe3d": {
         "source": "Increase the size of your War Bow Quiver",
-        "target": "Збільшити розмір кільватера вашого воєнного лука",
+        "target": "Збільшити розмір сагайдака бойового лука",
         "show": "always"
       },
       "068f688f-c55c-f549-8f7c-193dd7e3cf97": {
@@ -129306,17 +129306,17 @@
       },
       "22ba2a91-15b6-2f4a-b991-e515a9d570eb": {
         "source": "Text Datapoints - Quests",
-        "target": "Текстові точки даних - квести",
+        "target": "Текстові точки даних - Квести",
         "show": "always"
       },
       "17078e91-04a6-214e-8fbc-25eb40d5d2ca": {
         "source": "Always on",
-        "target": "Завжди включено",
+        "target": "Завжди ввімкнено",
         "show": "always"
       },
       "681aa691-9d40-be4f-ae4a-e67b9d60b3fd": {
         "source": "Antidote",
-        "target": "Протигід",
+        "target": "Перевір свої манжети для отримання деталей.",
         "show": "always"
       },
       "4bc4cc91-c27d-e442-b7ea-20959b459eb2": {
@@ -129326,7 +129326,7 @@
       },
       "458ddd91-cf55-2e43-a92c-438c3e861207": {
         "source": "A difficulty level that balances the journey with a challenging combat experience",
-        "target": "Рівень складності, який збалансовує подорож з викликовим бойовим досвідом",
+        "target": "Рівень складності, який збалансовує подорож з непростим бойовим досвідом",
         "show": "always"
       },
       "eb940792-1fe0-8e45-9be0-ceaeff0b7697": {
@@ -129336,17 +129336,17 @@
       },
       "58720d92-94f0-6445-ad1e-80c6e2f6f4ef": {
         "source": "Set player character face paint. New face paints become available after completing New Game+ on Hard, Very Hard and Ultra Hard difficulty.",
-        "target": "Встановити фарбу обличчя гравця. Нові фарби стають доступними після завершення Нової Гри+ на рівнях Складно, Дуже Складно та Надзвичайно Складно.",
+        "target": "Встановити фарбу для обличчя гравця. Нові фарби стають доступними після завершення Нової Гри+ на рівнях Складно, Дуже Складно та Надзвичайно Складно.",
         "show": "always"
       },
       "559a3f92-87a8-6647-be15-55d1d8373a6a": {
         "source": "Blueprint: Stun Gun Weapon - Basic",
-        "target": "Макет: Зброя електрошокового пістолета - Базова",
+        "target": "Креслення: Зброя-Електрошокер - Базова",
         "show": "always"
       },
       "7d819e92-8730-4a47-8988-9854990289c9": {
         "source": "Adjust the level of on-screen information displayed (touching Touch Pad will always display it)",
-        "target": "Налаштувати рівень відображеної інформації на екрані (тачпад завжди відображатиме її)",
+        "target": "Налаштувати рівень відображуваної інформації на екрані (дотик до тачпаду завжди відображатиме її)",
         "show": "always"
       },
       "00753e93-64d1-8246-8380-871c235758b6": {
@@ -129361,7 +129361,7 @@
       },
       "7dfee493-67f9-104b-9fcb-c1e15b880031": {
         "source": "Are you sure you want to close photo mode?",
-        "target": "Ви впевнені, що хочете закрити режим фото?",
+        "target": "Ви впевнені, що хочете закрити фото-режим?",
         "show": "always"
       },
       "30892c95-c272-eb45-a118-c91332afd97d": {
@@ -129386,7 +129386,7 @@
       },
       "6ace1396-cf11-dd4c-9bc9-26f61c64e343": {
         "source": "Sunstone Rock",
-        "target": "Кам'яний хребет",
+        "target": "Скеля Санстоун",
         "show": "always"
       },
       "babc5896-d06a-964a-8913-f439ce0d8927": {
@@ -129406,7 +129406,7 @@
       },
       "5c6cc397-8b60-7049-bd47-ded06663dc35": {
         "source": "Override bar",
-        "target": "Панель перехресної атаки",
+        "target": "Панель перевизначення",
         "show": "always"
       },
       "0a832798-bd17-2843-b69e-8aac711f50ea": {
@@ -129421,7 +129421,7 @@
       },
       "78eaff98-fc77-ad44-a9c2-a94ff4ac2f28": {
         "source": "Headshots",
-        "target": "Головні постріли",
+        "target": "Постріли в голову",
         "show": "always"
       },
       "378ffd99-1602-574c-a960-51f27ee6798e": {
@@ -129431,7 +129431,7 @@
       },
       "db09419a-a27c-cc45-9606-d9c9e3689f19": {
         "source": "Increase the size of your Sharpshot Bow Quiver",
-        "target": "Збільшує розмір твоєї кажаної колчана для гострих стріл",
+        "target": "Збільшує розмір твого сагайдака для лука Шарпшот",
         "show": "always"
       },
       "97ca9a9b-e66e-0f40-925c-321be5b7c26d": {
@@ -129446,7 +129446,7 @@
       },
       "52666f9d-f60e-1444-87ed-224d0ff81d0b": {
         "source": "Sharpshot Bow Quiver",
-        "target": "Кажаний колчан для гострих стріл",
+        "target": "Сагайдак для лука Шарпшот",
         "show": "always"
       },
       "b2ca8b9d-21e4-e411-8517-005056a2001a": {
@@ -129461,7 +129461,7 @@
       },
       "17c2f09e-e20a-b841-a8d9-b0b21036da45": {
         "source": "Ambusher with light-bending stealth abilities, explosive mines and a powerful ranged attack.",
-        "target": "Засідання з можливістю скористатися здатністю згинати світло, вибуховими мінами та потужним дальнім ударом.",
+        "target": "Засадник зі здатністю згинати світло, невидимістю, вибуховими мінами та потужною дальньою атакою.",
         "show": "always"
       },
       "44332da0-26df-5e45-a807-74417f05de60": {
@@ -129476,7 +129476,7 @@
       },
       "23309aa1-c234-204e-930f-d4fe84c633d4": {
         "source": "Dawn's Sentinel",
-        "target": "Дозорець Світанку",
+        "target": "Вартовий Світанку",
         "show": "always"
       },
       "cfe0cda1-37ee-074d-9ec7-331dd9cb1d7c": {
@@ -129496,7 +129496,7 @@
       },
       "7cd1fba2-392a-e511-9ad9-005056a2001a": {
         "source": "(Hold) Search Deathbringer",
-        "target": "(Утримуйте) Пошук Смертетяної",
+        "target": "(Утримуйте) Пошук Смертоносця",
         "show": "always"
       },
       "bdb7baa3-ca99-e511-a2ad-5404a61cb0d8": {
@@ -129511,7 +129511,7 @@
       },
       "870f8ca4-1185-ed4d-a53e-6395f76a3899": {
         "source": "Able to engage on land and water, its bulk belies the speed of its distance-closing lunge attacks.",
-        "target": "Здатний атакувати на суші та воді, його маса не відображає швидкість його стрибків для зближення на відстань.",
+        "target": "Здатний атакувати на суші та воді, його масивність суперечить швидкості його атак, що закривають дистанцію.",
         "show": "always"
       },
       "2c5cd8a4-ba94-a242-8713-51f581675ee4": {
@@ -129526,7 +129526,7 @@
       },
       "7fa370a5-986a-b84a-8860-7852400f2d34": {
         "source": "Player health bar & medicine pouch",
-        "target": "Плеєровий рівень здоров'я та медична сумка",
+        "target": "Рівень здоров'я та медичний підсумок гравця",
         "show": "always"
       },
       "81857da6-e7af-1b48-95d4-330fc4968c0f": {
@@ -129541,7 +129541,7 @@
       },
       "7295a5a7-71c2-da45-a202-aaa2d184dac0": {
         "source": "Show/Hide overlay for PS Store",
-        "target": "Показати/приховати наложення для магазину PS",
+        "target": "Показати/приховати наложення для PS Store",
         "show": "always"
       },
       "9301bca8-c570-e511-8bc3-5404a61cb0d8": {
@@ -129556,7 +129556,7 @@
       },
       "6f1de5a9-4afa-e84b-b222-b431909fa74b": {
         "source": "Intro movie",
-        "target": "Початкове відео",
+        "target": "Вступне відео",
         "show": "always"
       },
       "38b4d5aa-5da1-944a-8933-094a4dca3ae4": {
@@ -129566,12 +129566,12 @@
       },
       "a35a42ab-8c8e-2e40-83e9-23bb5b4b2cdd": {
         "source": "Renders the game in 2160p Checkerboard resolution. Supersamples to your display resolution if your display does not support 4K.",
-        "target": "Відображує гру у роздільній здатності 2160p у вигляді шахової дошки. Здатність створює суперсемплинг до роздільної здатності вашого дисплея, якщо ваш дисплей не підтримує 4K.",
+        "target": "Відображує гру у роздільній здатності 2160p у вигляді шахової дошки. Супердискретизація до роздільної здатності вашого дисплея, якщо він не підтримує 4K.",
         "show": "always"
       },
       "391276ab-f371-dd4f-862e-145f1c726a0a": {
         "source": "Rattler Ammo Pouch",
-        "target": "Кишеня для патронів Rattler",
+        "target": "Підсумок для набоїв Rattler",
         "show": "always"
       },
       "6c1879ab-ea9c-914c-b36f-bed1da0cd9f4": {
@@ -129601,17 +129601,17 @@
       },
       "950d14ae-d515-1441-b20c-d86b2bb24814": {
         "source": "Ravager site",
-        "target": "Місце Разбещення",
+        "target": "Місце Ravager",
         "show": "always"
       },
       "939f50ae-209e-424f-8268-9ff515659111": {
         "source": "Blast Sling Ammo Pouch",
-        "target": "Кошик для Бойових Перчиків",
+        "target": "Підсумок для набоїв Blast Sling",
         "show": "always"
       },
       "89ed78ae-c435-2841-ba87-53254d441d24": {
         "source": "75% Fire damage resistance for 90 seconds. Made from the extract of the Fire Kiln Root, this liquid can protect against the effects of Fire for a short time.",
-        "target": "75% стійкості до вогню на 90 секунд. Виготовлено з екстракту кореня Вогненого Копила, ця рідина може захищати від вогню на короткий час.",
+        "target": "75% стійкості до вогню на 90 секунд. Виготовлено з екстракту кореня Fire Kiln, ця рідина може захищати від вогню на короткий час.",
         "show": "always"
       },
       "7ee601af-c570-e511-8bc3-5404a61cb0d8": {
@@ -129626,12 +129626,12 @@
       },
       "0a313eaf-4d0b-8344-8cd0-0e4d4e252c1d": {
         "source": "Sawtooth site",
-        "target": "Місце Пилястий зуб",
+        "target": "Sawtooth site",
         "show": "always"
       },
       "9768a9af-e82c-884b-98da-bab12024f8eb": {
         "source": "Northern Embrace Gate",
-        "target": "Північна брама Обійняти",
+        "target": "Північна Брама Обіймів",
         "show": "always"
       },
       "756e2bb0-5f20-974c-be17-47024d489eeb": {
@@ -129641,7 +129641,7 @@
       },
       "3acc57b0-814b-da47-b4bb-9b4b236750e3": {
         "source": "(Hold) Search Charger",
-        "target": "(Утримуйте) Пошук Заряджувача",
+        "target": "(Утримуйте) Пошук зарядного пристрою",
         "show": "always"
       },
       "75367bb0-3c07-1147-b8cb-89861ec6f3ba": {
@@ -130081,7 +130081,7 @@
       },
       "dbfc72dd-7846-f940-bf26-e9e70f10c7aa": {
         "source": "A more demanding combat experience throughout the journey",
-        "target": "Більш вимогливий досвід бою протягом подорожі",
+        "target": "Більш вимогливий бойовий досвід протягом всієї подорожі",
         "show": "always"
       },
       "be6773dd-fcfb-864c-bdfa-2831ea8cf34f": {
@@ -130136,7 +130136,7 @@
       },
       "503cd1e2-c517-4f43-945f-34514c90e7b2": {
         "source": "Can't afford",
-        "target": "Не може дозволити собі",
+        "target": "Не можна дозволити собі",
         "show": "always"
       },
       "aff2bde3-c544-754c-b931-de7ff08e0bc9": {
@@ -130161,7 +130161,7 @@
       },
       "51e10be5-eba8-0449-b59b-6840579cac78": {
         "source": "Generally flees when spooked, but capable of a gouging attack with its horns before running.",
-        "target": "Загалом втече, коли налякається, але може нанести удар рогами перед втіканням.",
+        "target": "Загалом втече, коли налякається, але може нанести удар рогами перед втечею.",
         "show": "always"
       },
       "af4d3ae5-18f3-4743-87c0-085139002235": {
@@ -130316,7 +130316,7 @@
       },
       "38a916f2-cd99-e511-a2ad-5404a61cb0d8": {
         "source": "Custom waypoint",
-        "target": "Власний шляхова мітка",
+        "target": "Власна шляхова мітка",
         "show": "always"
       },
       "e0920ff4-f7ef-0d4e-86ae-94f0ad5e7fcf": {
